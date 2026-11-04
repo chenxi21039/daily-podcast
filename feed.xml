@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>每日播客</title>
+  <link>https://chenxi21039.github.io/daily-podcast/</link>
+  <atom:link href="https://chenxi21039.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>zh-cn</language>
+  <description>每天一期中文语音播客，把关心的新闻和动态整理成对谈，通勤路上就能听完。</description>
+  <itunes:author>cx陈曦</itunes:author>
+  <itunes:owner><itunes:name>cx陈曦</itunes:name></itunes:owner>
+  <itunes:image href="https://chenxi21039.github.io/daily-podcast/cover.jpg"/>
+  <image><url>https://chenxi21039.github.io/daily-podcast/cover.jpg</url><title>每日播客</title><link>https://chenxi21039.github.io/daily-podcast/</link></image>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>yes</itunes:block>
+  <item>
+    <title>土豆姐的 Grok Bot 方法论</title>
+    <description>三人对谈，梳理 Lauren Tan（@poteto）的 Grok Bot 方法论：信任阶梯、先用一个 bot、语音倾倒+复述、信任四步、bot 团队与幕僚长、例行任务省钱、闭环与证据、纠正即改环境，以及加密内容创作者的实战案例。</description>
+    <itunes:summary>三人对谈，梳理 Lauren Tan（@poteto）的 Grok Bot 方法论：信任阶梯、先用一个 bot、语音倾倒+复述、信任四步、bot 团队与幕僚长、例行任务省钱、闭环与证据、纠正即改环境，以及加密内容创作者的实战案例。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-04-poteto-grokbot.mp3" length="4867820" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-04-poteto-grokbot</guid>
+    <pubDate>Wed, 04 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:10:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
