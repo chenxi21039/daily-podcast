@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>每日播客</title>
+  <title>信任阶梯</title>
   <link>https://chenxi21039.github.io/daily-podcast/</link>
   <atom:link href="https://chenxi21039.github.io/daily-podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <language>zh-cn</language>
-  <description>每天一期中文语音播客，把关心的新闻和动态整理成对谈，通勤路上就能听完。</description>
-  <itunes:author>cx陈曦</itunes:author>
-  <itunes:owner><itunes:name>cx陈曦</itunes:name></itunes:owner>
-  <itunes:image href="https://chenxi21039.github.io/daily-podcast/cover.jpg"/>
-  <image><url>https://chenxi21039.github.io/daily-podcast/cover.jpg</url><title>每日播客</title><link>https://chenxi21039.github.io/daily-podcast/</link></image>
+  <description>聊 AI Agent 与人机协作：怎样一步步建立对 AI 的信任，把方法论变成每天的工作流。</description>
+  <itunes:author>西西弗</itunes:author>
+  <itunes:owner><itunes:name>西西弗</itunes:name><itunes:email>chenxi21039@users.noreply.github.com</itunes:email></itunes:owner>
+  <managingEditor>chenxi21039@users.noreply.github.com (西西弗)</managingEditor>
+  <itunes:image href="https://chenxi21039.github.io/daily-podcast/cover-v2.jpg"/>
+  <image><url>https://chenxi21039.github.io/daily-podcast/cover-v2.jpg</url><title>信任阶梯</title><link>https://chenxi21039.github.io/daily-podcast/</link></image>
   <itunes:category text="Technology"/>
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
