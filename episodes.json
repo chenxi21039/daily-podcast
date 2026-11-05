@@ -18,5 +18,15 @@
   "guid": "daily-podcast-2026-11-05-pm",
   "bytes": 5514649,
   "duration": 393.874286
+ },
+ {
+  "file": "2026-11-06-am.mp3",
+  "title": "Addy Osmani：Agent 干活时如何保住批判性思维｜Cursor 上线 Build Live Apps",
+  "description": "早场头条细读 Addy Osmani 长文：认知卸载、推迟与认知投降光谱，理解债与监督悖论，责任不可外包。另有 Cursor Build Live Apps、Perplexity Teammates、OpenClaw Multiplayer，以及 Claude Code 产品负责人 Cat Wu 转投 OpenAI。",
+  "pubdate": "2026-11-06",
+  "pubdate_rfc": "Fri, 06 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-06-am",
+  "bytes": 9024596,
+  "duration": 724.272
  }
 ]
