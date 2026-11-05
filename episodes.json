@@ -8,5 +8,15 @@
   "guid": "daily-podcast-2026-11-04-poteto-grokbot",
   "bytes": 8191677,
   "duration": 585.090612
+ },
+ {
+  "file": "2026-11-05-2026-11-05-pm.mp3",
+  "title": "晚场：深圳 GEO 大会、SEO 卖出 eSIM、OpenAI 挖洞 Agent",
+  "description": "十一月五日晚场五条：向阳乔木预告深圳 GEO 大会与 WaytoAGI 海外增长分享；EZindie 周刊里 eSIM App 四个月退出且百分之九十六流量来自 SEO；OpenAI cyber 智能体单次跑出九百四十八个 Linux 提权洞；腾讯混元 Hy4 上视觉与电脑操作；Tw93 的 Kami 让 Agent 直接排出小红书卡片。",
+  "pubdate": "2026-11-05",
+  "pubdate_rfc": "Thu, 05 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-05-2026-11-05-pm",
+  "bytes": 5514649,
+  "duration": 393.874286
  }
 ]
