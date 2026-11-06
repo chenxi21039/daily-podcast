@@ -28,5 +28,15 @@
   "guid": "daily-podcast-2026-11-06-am",
   "bytes": 9024596,
   "duration": 724.272
+ },
+ {
+  "file": "2026-11-06-pm.mp3",
+  "title": "晚场：Inkling 2 Small、多智能体福利关照、特拉华 AI 公司提案",
+  "description": "十一月六日晚场五条：Thinking Machines 发布 Inkling 2 Small，长程 Agent 与视觉自检；Anthropic 测五大模型在多智能体里的福利关照与同族偏好；Mustafa Suleyman 警示特拉华让智能体经营企业的提案；Claude Personal Finance 经 Plaid 只读连银行；Sac 开源近二十万浏览的 AnliBili 案例站。",
+  "pubdate": "2026-11-06",
+  "pubdate_rfc": "Fri, 06 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-06-pm",
+  "bytes": 11287448,
+  "duration": 470.282449
  }
 ]
