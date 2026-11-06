@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>Agent 会做梦了：Anthropic 记忆组件、Cursor 语音通话、Amp Spaces 与 OpenRouter Auto Code</title>
+    <description>今早主菜：Anthropic 拆解智能体记忆的笔记、显著性与 dreaming；Cursor 上线与 Agent 的实时语音通话；Amp Spaces 用单协调者编排多线程；OpenRouter 推出编码专用 Auto Code。配菜对照 OpenAI 百亿融资到账与 Anthropic IPO 估值遇阻。</description>
+    <itunes:summary>今早主菜：Anthropic 拆解智能体记忆的笔记、显著性与 dreaming；Cursor 上线与 Agent 的实时语音通话；Amp Spaces 用单协调者编排多线程；OpenRouter 推出编码专用 Auto Code。配菜对照 OpenAI 百亿融资到账与 Anthropic IPO 估值遇阻。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-07-am.mp3" length="7380524" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-07-am</guid>
+    <pubDate>Sat, 07 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:07:41</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Addy Osmani：Agent 干活时如何保住批判性思维｜Cursor 上线 Build Live Apps</title>
     <description>早场头条细读 Addy Osmani 长文：认知卸载、推迟与认知投降光谱，理解债与监督悖论，责任不可外包。另有 Cursor Build Live Apps、Perplexity Teammates、OpenClaw Multiplayer，以及 Claude Code 产品负责人 Cat Wu 转投 OpenAI。</description>
     <itunes:summary>早场头条细读 Addy Osmani 长文：认知卸载、推迟与认知投降光谱，理解债与监督悖论，责任不可外包。另有 Cursor Build Live Apps、Perplexity Teammates、OpenClaw Multiplayer，以及 Claude Code 产品负责人 Cat Wu 转投 OpenAI。</itunes:summary>

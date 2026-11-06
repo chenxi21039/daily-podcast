@@ -38,5 +38,15 @@
   "guid": "daily-podcast-2026-11-06-pm",
   "bytes": 11287448,
   "duration": 470.282449
+ },
+ {
+  "file": "2026-11-07-am.mp3",
+  "title": "Agent 会做梦了：Anthropic 记忆组件、Cursor 语音通话、Amp Spaces 与 OpenRouter Auto Code",
+  "description": "今早主菜：Anthropic 拆解智能体记忆的笔记、显著性与 dreaming；Cursor 上线与 Agent 的实时语音通话；Amp Spaces 用单协调者编排多线程；OpenRouter 推出编码专用 Auto Code。配菜对照 OpenAI 百亿融资到账与 Anthropic IPO 估值遇阻。",
+  "pubdate": "2026-11-07",
+  "pubdate_rfc": "Sat, 07 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-07-am",
+  "bytes": 7380524,
+  "duration": 461.256
  }
 ]
