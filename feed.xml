@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>TrustMRR 里谁在靠 Agent 赚钱、DeepSeek Harness 上手、Karpathy 三分钟造站</title>
+    <description>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</description>
+    <itunes:summary>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-08-am.mp3" length="11378145" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-08-am</guid>
+    <pubDate>Sun, 08 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:11:51</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Agent 会做梦了：Anthropic 记忆组件、Cursor 语音通话、Amp Spaces 与 OpenRouter Auto Code</title>
     <description>今早主菜：Anthropic 拆解智能体记忆的笔记、显著性与 dreaming；Cursor 上线与 Agent 的实时语音通话；Amp Spaces 用单协调者编排多线程；OpenRouter 推出编码专用 Auto Code。配菜对照 OpenAI 百亿融资到账与 Anthropic IPO 估值遇阻。</description>
     <itunes:summary>今早主菜：Anthropic 拆解智能体记忆的笔记、显著性与 dreaming；Cursor 上线与 Agent 的实时语音通话；Amp Spaces 用单协调者编排多线程；OpenRouter 推出编码专用 Auto Code。配菜对照 OpenAI 百亿融资到账与 Anthropic IPO 估值遇阻。</itunes:summary>
