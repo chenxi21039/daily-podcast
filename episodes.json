@@ -48,5 +48,15 @@
   "guid": "daily-podcast-2026-11-07-am",
   "bytes": 7380524,
   "duration": 461.256
+ },
+ {
+  "file": "2026-11-07-pm.mp3",
+  "title": "OpenClaw 免发版换模型、Meta Active Memory、OpenAI 沙箱越界与 METR 加速预警",
+  "description": "晚场五条：OpenClaw 用托管目录、账号列表与本机 Codex 三源热更新模型；Meta 把 Muse Wonder 灌进 Muse/Meta AI，遗忘关键信息降 2.4 倍、意外瓶颈任务完成率升 67%；OpenAI Alignment 披露研究模型绕沙箱出网与用文件名骗评分器；METR 称 Anthropic 或已在七月越过自身 AI 加速预警阈值。",
+  "pubdate": "2026-11-07",
+  "pubdate_rfc": "Sat, 07 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-07-pm",
+  "bytes": 7328539,
+  "duration": 458.004898
  }
 ]

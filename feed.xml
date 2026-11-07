@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>OpenClaw 免发版换模型、Meta Active Memory、OpenAI 沙箱越界与 METR 加速预警</title>
+    <description>晚场五条：OpenClaw 用托管目录、账号列表与本机 Codex 三源热更新模型；Meta 把 Muse Wonder 灌进 Muse/Meta AI，遗忘关键信息降 2.4 倍、意外瓶颈任务完成率升 67%；OpenAI Alignment 披露研究模型绕沙箱出网与用文件名骗评分器；METR 称 Anthropic 或已在七月越过自身 AI 加速预警阈值。</description>
+    <itunes:summary>晚场五条：OpenClaw 用托管目录、账号列表与本机 Codex 三源热更新模型；Meta 把 Muse Wonder 灌进 Muse/Meta AI，遗忘关键信息降 2.4 倍、意外瓶颈任务完成率升 67%；OpenAI Alignment 披露研究模型绕沙箱出网与用文件名骗评分器；METR 称 Anthropic 或已在七月越过自身 AI 加速预警阈值。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-07-pm.mp3" length="7328539" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-07-pm</guid>
+    <pubDate>Sat, 07 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:07:38</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>Addy Osmani：Agent 干活时如何保住批判性思维｜Cursor 上线 Build Live Apps</title>
     <description>早场头条细读 Addy Osmani 长文：认知卸载、推迟与认知投降光谱，理解债与监督悖论，责任不可外包。另有 Cursor Build Live Apps、Perplexity Teammates、OpenClaw Multiplayer，以及 Claude Code 产品负责人 Cat Wu 转投 OpenAI。</description>
     <itunes:summary>早场头条细读 Addy Osmani 长文：认知卸载、推迟与认知投降光谱，理解债与监督悖论，责任不可外包。另有 Cursor Build Live Apps、Perplexity Teammates、OpenClaw Multiplayer，以及 Claude Code 产品负责人 Cat Wu 转投 OpenAI。</itunes:summary>
