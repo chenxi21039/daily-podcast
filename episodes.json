@@ -68,5 +68,15 @@
   "guid": "daily-podcast-2026-11-08-am",
   "bytes": 11378145,
   "duration": 711.105306
+ },
+ {
+  "file": "2026-11-08-pm.mp3",
+  "title": "晚场：编码 Agent 四分之三要人收尾、跨厂智能体对不上暗号、Mirasim 直播写仓库",
+  "description": "十一月八日周日晚场五条：阿里等机构的 Co-Design Bench 显示最好的编码智能体也只有约四分之一任务完全做对；牛津 BOLD 团队发现不同厂家的智能体第一次协作时容易把自创暗号当成常识；Mirasim Live Repo 把 GitHub 地址里的 github 换成 mirasim，就能围观并一起指挥智能体改开源仓库。配菜是 Andy Hall 所测 AI 审计员的高误报，以及 Menlo Ventures 报告转述的中国开源模型占企业开源支出近九成。",
+  "pubdate": "2026-11-08",
+  "pubdate_rfc": "Sun, 08 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-08-pm",
+  "bytes": 11287030,
+  "duration": 705.410612
  }
 ]
