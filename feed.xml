@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>早场：谷歌大象金鱼插件先审规格、Hermes 安全插件先复现再报漏洞、Siri 要变智能体</title>
+    <description>十一月九日周一早场五条：谷歌开源 Elephant-Goldfish Model 插件，让长会话写规格、让无记忆的子智能体分五个阶段挑刺；Nous Research 给 Hermes Agent 上了先复现再报警的安全审查插件，顺带聊微软开源的智能体依赖管理工具 APM；古尔曼爆料苹果要让 Siri 操作第三方应用。后半段是用七个智能体给海外本地商家卖网站的接单流水线，以及 levelsio 关停 Infinite Slop TV 的数据复盘。</description>
+    <itunes:summary>十一月九日周一早场五条：谷歌开源 Elephant-Goldfish Model 插件，让长会话写规格、让无记忆的子智能体分五个阶段挑刺；Nous Research 给 Hermes Agent 上了先复现再报警的安全审查插件，顺带聊微软开源的智能体依赖管理工具 APM；古尔曼爆料苹果要让 Siri 操作第三方应用。后半段是用七个智能体给海外本地商家卖网站的接单流水线，以及 levelsio 关停 Infinite Slop TV 的数据复盘。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-09-am.mp3" length="9136630" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-09-am</guid>
+    <pubDate>Mon, 09 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:09:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>TrustMRR 里谁在靠 Agent 赚钱、DeepSeek Harness 上手、Karpathy 三分钟造站</title>
     <description>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</description>
     <itunes:summary>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</itunes:summary>

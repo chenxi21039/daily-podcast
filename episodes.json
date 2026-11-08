@@ -78,5 +78,15 @@
   "guid": "daily-podcast-2026-11-08-pm",
   "bytes": 11287030,
   "duration": 705.410612
+ },
+ {
+  "file": "2026-11-09-am.mp3",
+  "title": "早场：谷歌大象金鱼插件先审规格、Hermes 安全插件先复现再报漏洞、Siri 要变智能体",
+  "description": "十一月九日周一早场五条：谷歌开源 Elephant-Goldfish Model 插件，让长会话写规格、让无记忆的子智能体分五个阶段挑刺；Nous Research 给 Hermes Agent 上了先复现再报警的安全审查插件，顺带聊微软开源的智能体依赖管理工具 APM；古尔曼爆料苹果要让 Siri 操作第三方应用。后半段是用七个智能体给海外本地商家卖网站的接单流水线，以及 levelsio 关停 Infinite Slop TV 的数据复盘。",
+  "pubdate": "2026-11-09",
+  "pubdate_rfc": "Mon, 09 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-09-am",
+  "bytes": 9136630,
+  "duration": 571.010612
  }
 ]
