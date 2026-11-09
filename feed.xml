@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>晚场：智能体自改外壳会丢活、Aspen 给成百智能体推代码、千问办公把 Agent 拉进群</title>
+    <description>十一月九日周一晚场五条：伯克利等机构论文发现，智能体自己改外壳后平均分上涨，却会丢掉原本会做的任务，Garry Tan 的早期评测也显示七套外壳通过率几乎一样，差别在成本和速度；Reason Machines 开源按分支扩展的 Git 服务器 Aspen，应对大量智能体并发推送；千问办公 2.0 把智能体带进工作群并支持事件驱动。后半段是一人公司出海先手动跑通种子客户的提醒、yetone 开源的 Rewind for X 与 Firebase Studio 关停，最后是苹果下调工程师每日 AI 预算的报道。</description>
+    <itunes:summary>十一月九日周一晚场五条：伯克利等机构论文发现，智能体自己改外壳后平均分上涨，却会丢掉原本会做的任务，Garry Tan 的早期评测也显示七套外壳通过率几乎一样，差别在成本和速度；Reason Machines 开源按分支扩展的 Git 服务器 Aspen，应对大量智能体并发推送；千问办公 2.0 把智能体带进工作群并支持事件驱动。后半段是一人公司出海先手动跑通种子客户的提醒、yetone 开源的 Rewind for X 与 Firebase Studio 关停，最后是苹果下调工程师每日 AI 预算的报道。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-09-pm.mp3" length="10737832" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-09-pm</guid>
+    <pubDate>Mon, 09 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:11:11</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>TrustMRR 里谁在靠 Agent 赚钱、DeepSeek Harness 上手、Karpathy 三分钟造站</title>
     <description>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</description>
     <itunes:summary>早场五条：Claude Code 读完 TrustMRR 1.2 万家公司，522 家卖 AI Agent 过半零收入，赚钱的 15 家多在卖获客，一人公司跑赢十万粉大号；Han Xiao 对比 DeepSeek Harness 与 pi；Karpathy 三分钟一次写成 TristanTube；本周 GitHub 热门 Agent 仓库；Greg Isenberg 的创业循环。</itunes:summary>
