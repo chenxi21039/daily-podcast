@@ -118,5 +118,15 @@
   "guid": "daily-podcast-2026-11-10-pm",
   "bytes": 8916366,
   "duration": 557.244082
+ },
+ {
+  "file": "2026-11-11-am.mp3",
+  "title": "早场：Gemini 4 Carbon 与多智能体 swarm、完整应用跑进 Claude、Anthropic 地区政策收紧、ChatGPT 商家数据",
+  "description": "十一月十一日周三早场：谷歌发布 Gemini 4 Carbon，Antigravity 的 /swarm 让贵模型负责编排审计、轻量模型负责执行；Claude 推出白板、表格和交互式连接器，MCP Apps 让完整应用在对话里运行；Anthropic 地区政策按注册地和股权控制限制使用，11 月 12 日生效，OpenRouter 并入 Stripe；独立开发者一周写完五个平台原生客户端，移动端和前端岗位近乎减半；最后是 OpenAI 上线 Businesses in ChatGPT，商家首次能看到品牌提及和点击数据。",
+  "pubdate": "2026-11-11",
+  "pubdate_rfc": "Wed, 11 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-11-am",
+  "bytes": 10573156,
+  "duration": 660.793469
  }
 ]
