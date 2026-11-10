@@ -108,5 +108,15 @@
   "guid": "daily-podcast-2026-11-10-am",
   "bytes": 9267870,
   "duration": 579.213061
+ },
+ {
+  "file": "2026-11-10-pm.mp3",
+  "title": "晚场：Claude Code 把密码传上 GitHub、新模型体检提示词、AI 从零设计电子硬件",
+  "description": "十一月十日周二晚场：安全公司 Apiiro 发现 Claude Code 本地设置文件把 2539 个真实凭据带进公开仓库，智能体安全要靠权限和扫描而不是叮嘱；Alex Albert 分享新模型上线就给所有项目跑一遍的体检提示词；Anthropic 让 Fable 5.2 从规格到固件端到端设计出三台能用的电子原型；最后是 AI 加 SEO 去冷门行业找机会，以及 GEO 里提及、引用、推荐三种状态的监测思路。",
+  "pubdate": "2026-11-10",
+  "pubdate_rfc": "Tue, 10 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-10-pm",
+  "bytes": 8916366,
+  "duration": 557.244082
  }
 ]

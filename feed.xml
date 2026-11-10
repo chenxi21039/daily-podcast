@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>晚场：Claude Code 把密码传上 GitHub、新模型体检提示词、AI 从零设计电子硬件</title>
+    <description>十一月十日周二晚场：安全公司 Apiiro 发现 Claude Code 本地设置文件把 2539 个真实凭据带进公开仓库，智能体安全要靠权限和扫描而不是叮嘱；Alex Albert 分享新模型上线就给所有项目跑一遍的体检提示词；Anthropic 让 Fable 5.2 从规格到固件端到端设计出三台能用的电子原型；最后是 AI 加 SEO 去冷门行业找机会，以及 GEO 里提及、引用、推荐三种状态的监测思路。</description>
+    <itunes:summary>十一月十日周二晚场：安全公司 Apiiro 发现 Claude Code 本地设置文件把 2539 个真实凭据带进公开仓库，智能体安全要靠权限和扫描而不是叮嘱；Alex Albert 分享新模型上线就给所有项目跑一遍的体检提示词；Anthropic 让 Fable 5.2 从规格到固件端到端设计出三台能用的电子原型；最后是 AI 加 SEO 去冷门行业找机会，以及 GEO 里提及、引用、推荐三种状态的监测思路。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-10-pm.mp3" length="8916366" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-10-pm</guid>
+    <pubDate>Tue, 10 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:17</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：谷歌大象金鱼插件先审规格、Hermes 安全插件先复现再报漏洞、Siri 要变智能体</title>
     <description>十一月九日周一早场五条：谷歌开源 Elephant-Goldfish Model 插件，让长会话写规格、让无记忆的子智能体分五个阶段挑刺；Nous Research 给 Hermes Agent 上了先复现再报警的安全审查插件，顺带聊微软开源的智能体依赖管理工具 APM；古尔曼爆料苹果要让 Siri 操作第三方应用。后半段是用七个智能体给海外本地商家卖网站的接单流水线，以及 levelsio 关停 Infinite Slop TV 的数据复盘。</description>
     <itunes:summary>十一月九日周一早场五条：谷歌开源 Elephant-Goldfish Model 插件，让长会话写规格、让无记忆的子智能体分五个阶段挑刺；Nous Research 给 Hermes Agent 上了先复现再报警的安全审查插件，顺带聊微软开源的智能体依赖管理工具 APM；古尔曼爆料苹果要让 Siri 操作第三方应用。后半段是用七个智能体给海外本地商家卖网站的接单流水线，以及 levelsio 关停 Infinite Slop TV 的数据复盘。</itunes:summary>
