@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>晚场：Cursor 多人协作 Projects、MCP 的上下文账单、编程智能体横评与 Qwen4、十万美元黑客松免费、GEO 小站日入两千</title>
+    <description>十一月十一日周三晚场：Cursor Projects 升级为多人协作，团队和智能体共享上下文、跨人互相协调；OpenRouter 实测同一任务里命令行、Skill 和 MCP 的 token 成本，相差最多四十多倍；Frontier Harness 横评中 Codex CLI 与 Pi Agent 领先，Qwen4-Max 开放预览；Marc Lou 把十万美元黑客松改为免费；一位博主靠 GEO 细分页面把小站做到日入一两千。</description>
+    <itunes:summary>十一月十一日周三晚场：Cursor Projects 升级为多人协作，团队和智能体共享上下文、跨人互相协调；OpenRouter 实测同一任务里命令行、Skill 和 MCP 的 token 成本，相差最多四十多倍；Frontier Harness 横评中 Codex CLI 与 Pi Agent 领先，Qwen4-Max 开放预览；Marc Lou 把十万美元黑客松改为免费；一位博主靠 GEO 细分页面把小站做到日入一两千。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-11-pm.mp3" length="8677711" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-11-pm</guid>
+    <pubDate>Wed, 11 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:02</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：Claude Fable 5.2 发布、一千个智能体复现费马证明、Muse Ember 抢子任务</title>
     <description>十一月十日周二早场四条：Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，同一底层模型，更快更便宜、跑分领先，但官方仍建议日常先用 Opus 5.5、换模型前先调推理档位；一千个 Fable 5.2 智能体靠沙箱、共享数据库和 Git 协作，约二十九小时复现费马大定理形式化证明，并配三层安全防护；Meta 的 Muse Ember 和 Thinking Machines 的 Inkling 2 Small 瞄准智能体子任务；最后是用美国 LLC 加水星银行申请 ElevenLabs 创业补助的出海省钱经验。</description>
     <itunes:summary>十一月十日周二早场四条：Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2，同一底层模型，更快更便宜、跑分领先，但官方仍建议日常先用 Opus 5.5、换模型前先调推理档位；一千个 Fable 5.2 智能体靠沙箱、共享数据库和 Git 协作，约二十九小时复现费马大定理形式化证明，并配三层安全防护；Meta 的 Muse Ember 和 Thinking Machines 的 Inkling 2 Small 瞄准智能体子任务；最后是用美国 LLC 加水星银行申请 ElevenLabs 创业补助的出海省钱经验。</itunes:summary>

@@ -128,5 +128,15 @@
   "guid": "daily-podcast-2026-11-11-am",
   "bytes": 10573156,
   "duration": 660.793469
+ },
+ {
+  "file": "2026-11-11-pm.mp3",
+  "title": "晚场：Cursor 多人协作 Projects、MCP 的上下文账单、编程智能体横评与 Qwen4、十万美元黑客松免费、GEO 小站日入两千",
+  "description": "十一月十一日周三晚场：Cursor Projects 升级为多人协作，团队和智能体共享上下文、跨人互相协调；OpenRouter 实测同一任务里命令行、Skill 和 MCP 的 token 成本，相差最多四十多倍；Frontier Harness 横评中 Codex CLI 与 Pi Agent 领先，Qwen4-Max 开放预览；Marc Lou 把十万美元黑客松改为免费；一位博主靠 GEO 细分页面把小站做到日入一两千。",
+  "pubdate": "2026-11-11",
+  "pubdate_rfc": "Wed, 11 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-11-pm",
+  "bytes": 8677711,
+  "duration": 542.328163
  }
 ]
