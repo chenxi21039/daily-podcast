@@ -138,5 +138,15 @@
   "guid": "daily-podcast-2026-11-11-pm",
   "bytes": 8677711,
   "duration": 542.328163
+ },
+ {
+  "file": "2026-11-12-am.mp3",
+  "title": "早场：a16z 的 B2A 经济、多智能体各为其主反而更糟、Gemini 决策接口、levelsio 的 3D 新功能、技术岗位大挪移",
+  "description": "十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。",
+  "pubdate": "2026-11-12",
+  "pubdate_rfc": "Thu, 12 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-12-am",
+  "bytes": 9723445,
+  "duration": 607.686531
  }
 ]

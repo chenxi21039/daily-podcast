@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>早场：a16z 的 B2A 经济、多智能体各为其主反而更糟、Gemini 决策接口、levelsio 的 3D 新功能、技术岗位大挪移</title>
+    <description>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</description>
+    <itunes:summary>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-12-am.mp3" length="9723445" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-12-am</guid>
+    <pubDate>Thu, 12 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:10:08</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：Gemini 4 Carbon 与多智能体 swarm、完整应用跑进 Claude、Anthropic 地区政策收紧、ChatGPT 商家数据</title>
     <description>十一月十一日周三早场：谷歌发布 Gemini 4 Carbon，Antigravity 的 /swarm 让贵模型负责编排审计、轻量模型负责执行；Claude 推出白板、表格和交互式连接器，MCP Apps 让完整应用在对话里运行；Anthropic 地区政策按注册地和股权控制限制使用，11 月 12 日生效，OpenRouter 并入 Stripe；独立开发者一周写完五个平台原生客户端，移动端和前端岗位近乎减半；最后是 OpenAI 上线 Businesses in ChatGPT，商家首次能看到品牌提及和点击数据。</description>
     <itunes:summary>十一月十一日周三早场：谷歌发布 Gemini 4 Carbon，Antigravity 的 /swarm 让贵模型负责编排审计、轻量模型负责执行；Claude 推出白板、表格和交互式连接器，MCP Apps 让完整应用在对话里运行；Anthropic 地区政策按注册地和股权控制限制使用，11 月 12 日生效，OpenRouter 并入 Stripe；独立开发者一周写完五个平台原生客户端，移动端和前端岗位近乎减半；最后是 OpenAI 上线 Businesses in ChatGPT，商家首次能看到品牌提及和点击数据。</itunes:summary>
