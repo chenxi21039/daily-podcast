@@ -148,5 +148,15 @@
   "guid": "daily-podcast-2026-11-12-am",
   "bytes": 9723445,
   "duration": 607.686531
+ },
+ {
+  "file": "2026-11-12-pm.mp3",
+  "title": "晚场：美联航拒绝智能体代订机票、AWS 本地模拟器、智能体死循环四层防护、Resend 让模型推荐自己、OpenRouter 七语种自纠错翻译",
+  "description": "十一月十二日周四晚场：美联航不允许个人 AI 智能体代旅客购票，CEO 称不想再造一个中间商；AWS 发布由智能体编写的本地 AWS Emulator，强调工程师要搭规格、测试和合并闸门；OpenRouter 实测六个模型给出防止智能体死循环烧钱的四层防护；Resend 靠长尾文档、纯文本定价页和 MCP 让大模型主动推荐；OpenRouter 用约 460 美元做出七种语言的自纠错本地化流水线。",
+  "pubdate": "2026-11-12",
+  "pubdate_rfc": "Thu, 12 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-12-pm",
+  "bytes": 10286854,
+  "duration": 642.899592
  }
 ]
