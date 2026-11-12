@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>早场：Replit 智能体代采购与投 Google 广告、Claude Tag 创业公司指南与 Claude Meetings、Gemini 4 Hydrogen 与搜索查询扇出</title>
+    <description>十一月十三日周五早场：Replit Agent 借助 Stripe Link 和 Visa 代企业采购、在 Replit 内直接投放 Google Ads，每笔花费都需创始人审批；Anthropic 发布 Claude Tag 创业公司使用指南，总结八家公司的五大用法与护栏，并推出可加入视频会议的 Claude Meetings；谷歌发布主打智能体执行的 Gemini 4 Hydrogen 与 Orchestrator 多模型编排，并升级搜索查询扇出；附 Claude Code 的 /doctor prompt-audit 小技巧。</description>
+    <itunes:summary>十一月十三日周五早场：Replit Agent 借助 Stripe Link 和 Visa 代企业采购、在 Replit 内直接投放 Google Ads，每笔花费都需创始人审批；Anthropic 发布 Claude Tag 创业公司使用指南，总结八家公司的五大用法与护栏，并推出可加入视频会议的 Claude Meetings；谷歌发布主打智能体执行的 Gemini 4 Hydrogen 与 Orchestrator 多模型编排，并升级搜索查询扇出；附 Claude Code 的 /doctor prompt-audit 小技巧。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-13-am.mp3" length="9330145" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-13-am</guid>
+    <pubDate>Fri, 13 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:09:43</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：a16z 的 B2A 经济、多智能体各为其主反而更糟、Gemini 决策接口、levelsio 的 3D 新功能、技术岗位大挪移</title>
     <description>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</description>
     <itunes:summary>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</itunes:summary>

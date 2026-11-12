@@ -158,5 +158,15 @@
   "guid": "daily-podcast-2026-11-12-pm",
   "bytes": 10286854,
   "duration": 642.899592
+ },
+ {
+  "file": "2026-11-13-am.mp3",
+  "title": "早场：Replit 智能体代采购与投 Google 广告、Claude Tag 创业公司指南与 Claude Meetings、Gemini 4 Hydrogen 与搜索查询扇出",
+  "description": "十一月十三日周五早场：Replit Agent 借助 Stripe Link 和 Visa 代企业采购、在 Replit 内直接投放 Google Ads，每笔花费都需创始人审批；Anthropic 发布 Claude Tag 创业公司使用指南，总结八家公司的五大用法与护栏，并推出可加入视频会议的 Claude Meetings；谷歌发布主打智能体执行的 Gemini 4 Hydrogen 与 Orchestrator 多模型编排，并升级搜索查询扇出；附 Claude Code 的 /doctor prompt-audit 小技巧。",
+  "pubdate": "2026-11-13",
+  "pubdate_rfc": "Fri, 13 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-13-am",
+  "bytes": 9330145,
+  "duration": 583.105306
  }
 ]
