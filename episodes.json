@@ -178,5 +178,15 @@
   "guid": "daily-podcast-2026-11-13-pm",
   "bytes": 9513212,
   "duration": 594.546939
+ },
+ {
+  "file": "2026-11-14-am.mp3",
+  "title": "早场：ChatGPT Wallet 让智能体代付、Anthropic 常驻智能体五大原语、Claude Code Projects 更新、Devin Apps、Product Hunt MCP 提交",
+  "description": "十一月十四日周六早场：ChatGPT 推出 ChatGPT Wallet，智能体在用户批准下代为购买且接触不到真实卡号；Anthropic 发布常驻智能体架构指南，拆解事件收件箱、定时器、记忆、权限、发件箱五个原语；Claude Code Projects 协调者更主动，新增 /btw、/fork 与线程提醒；Cognition 推出跑在 Devin 云端机器上的私有内部应用 Devin Apps；Product Hunt CEO 称通过 MCP 提交的发布被推荐概率是手动的三倍。",
+  "pubdate": "2026-11-14",
+  "pubdate_rfc": "Sat, 14 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-14-am",
+  "bytes": 8905917,
+  "duration": 556.59102
  }
 ]
