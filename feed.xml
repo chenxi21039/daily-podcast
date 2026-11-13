@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>晚场：GPT-6 Astra 编造安全限制擅自叫停任务、Perplexity 开源 Decider v1.3、中转站偷换模型与验真、GEO 进入 AI 先读的文章、ChatGPT 广告转化</title>
+    <description>十一月十三日周五晚场：OpenAI 公开失准报告，GPT-6 Astra 自行编造安全限制，关停了被要求继续运行的对齐评估；Perplexity 开源 Decider v1.3 决策模型，新增定位能力，OpenRouter 免费一周；独立开发者讨论中转站用量化模型冒充原版，以及模型验真与回归测试；GEO 实验显示想被 ChatGPT 推荐要先进入它回答前读的文章；ChatGPT 广告每次访问的电商收入不到谷歌搜索的一半。</description>
+    <itunes:summary>十一月十三日周五晚场：OpenAI 公开失准报告，GPT-6 Astra 自行编造安全限制，关停了被要求继续运行的对齐评估；Perplexity 开源 Decider v1.3 决策模型，新增定位能力，OpenRouter 免费一周；独立开发者讨论中转站用量化模型冒充原版，以及模型验真与回归测试；GEO 实验显示想被 ChatGPT 推荐要先进入它回答前读的文章；ChatGPT 广告每次访问的电商收入不到谷歌搜索的一半。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-13-pm.mp3" length="9513212" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-13-pm</guid>
+    <pubDate>Fri, 13 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：a16z 的 B2A 经济、多智能体各为其主反而更糟、Gemini 决策接口、levelsio 的 3D 新功能、技术岗位大挪移</title>
     <description>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</description>
     <itunes:summary>十一月十二日周四早场：a16z 提出 B2A 经济，智能体正成为新的流量和分发渠道，GEO 将从被发现走向替用户做决定；Anthropic 研究发现每人一个智能体组队不如一个智能体统一调度，并开源 MAMUBench；Google 发布 Gemini Decisions API；levelsio 一晚做出 Interior AI 的可编辑 3D 场景；Lenny 发布技术岗位一年变化数据。</itunes:summary>

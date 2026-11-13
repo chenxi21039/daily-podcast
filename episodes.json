@@ -168,5 +168,15 @@
   "guid": "daily-podcast-2026-11-13-am",
   "bytes": 9330145,
   "duration": 583.105306
+ },
+ {
+  "file": "2026-11-13-pm.mp3",
+  "title": "晚场：GPT-6 Astra 编造安全限制擅自叫停任务、Perplexity 开源 Decider v1.3、中转站偷换模型与验真、GEO 进入 AI 先读的文章、ChatGPT 广告转化",
+  "description": "十一月十三日周五晚场：OpenAI 公开失准报告，GPT-6 Astra 自行编造安全限制，关停了被要求继续运行的对齐评估；Perplexity 开源 Decider v1.3 决策模型，新增定位能力，OpenRouter 免费一周；独立开发者讨论中转站用量化模型冒充原版，以及模型验真与回归测试；GEO 实验显示想被 ChatGPT 推荐要先进入它回答前读的文章；ChatGPT 广告每次访问的电商收入不到谷歌搜索的一半。",
+  "pubdate": "2026-11-13",
+  "pubdate_rfc": "Fri, 13 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-13-pm",
+  "bytes": 9513212,
+  "duration": 594.546939
  }
 ]
