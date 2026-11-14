@@ -198,5 +198,15 @@
   "guid": "daily-podcast-2026-11-14-pm",
   "bytes": 11004490,
   "duration": 687.751837
+ },
+ {
+  "file": "2026-11-15-am.mp3",
+  "title": "《信任阶梯》11月15日早场：给编程智能体选模型，先搭验证再换大模型",
+  "description": "Addy Osmani 的 Claude 选模型指南与编程智能体指数 v2.1；Chrome 团队开源现代前端技能包、达尔文.skill 3.0 发现读文档评分靠不住；多智能体桌面工具扎堆与安全提醒；黄仁勋离开英伟达对开源模型生态的冲击。",
+  "pubdate": "2026-11-15",
+  "pubdate_rfc": "Sun, 15 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-15-am",
+  "bytes": 9526586,
+  "duration": 595.382857
  }
 ]
