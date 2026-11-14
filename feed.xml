@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>晚场：Cursor 安全事件全披露、Google Antigravity /teamwork 攻克数学难题、Amplitude 产品智能体闭环、开源编程智能体技能包、Claude Code 自定义主题</title>
+    <description>十一月十四日周六晚场：Cursor 公布安全事件调查，供应商泄露的密钥导致旧智能体轨迹与凭证外泄，最多 5000 名用户可能装到被篡改的 Claude Code 扩展；Google 用 Antigravity /teamwork 多智能体工作流加独立证伪，证明 Courtade–Kumar 猜想等多项难题；Amplitude 的 Wave 把找产品问题和交给 Codex 改代码接成闭环；Matt Pocock 技能集、Theo 的 tstack 与 Kiln Harness Tuner；Claude Code 桌面版支持 mods 自定义主题。</description>
+    <itunes:summary>十一月十四日周六晚场：Cursor 公布安全事件调查，供应商泄露的密钥导致旧智能体轨迹与凭证外泄，最多 5000 名用户可能装到被篡改的 Claude Code 扩展；Google 用 Antigravity /teamwork 多智能体工作流加独立证伪，证明 Courtade–Kumar 猜想等多项难题；Amplitude 的 Wave 把找产品问题和交给 Codex 改代码接成闭环；Matt Pocock 技能集、Theo 的 tstack 与 Kiln Harness Tuner；Claude Code 桌面版支持 mods 自定义主题。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-14-pm.mp3" length="11004490" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-14-pm</guid>
+    <pubDate>Sat, 14 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:11:28</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：Replit 智能体代采购与投 Google 广告、Claude Tag 创业公司指南与 Claude Meetings、Gemini 4 Hydrogen 与搜索查询扇出</title>
     <description>十一月十三日周五早场：Replit Agent 借助 Stripe Link 和 Visa 代企业采购、在 Replit 内直接投放 Google Ads，每笔花费都需创始人审批；Anthropic 发布 Claude Tag 创业公司使用指南，总结八家公司的五大用法与护栏，并推出可加入视频会议的 Claude Meetings；谷歌发布主打智能体执行的 Gemini 4 Hydrogen 与 Orchestrator 多模型编排，并升级搜索查询扇出；附 Claude Code 的 /doctor prompt-audit 小技巧。</description>
     <itunes:summary>十一月十三日周五早场：Replit Agent 借助 Stripe Link 和 Visa 代企业采购、在 Replit 内直接投放 Google Ads，每笔花费都需创始人审批；Anthropic 发布 Claude Tag 创业公司使用指南，总结八家公司的五大用法与护栏，并推出可加入视频会议的 Claude Meetings；谷歌发布主打智能体执行的 Gemini 4 Hydrogen 与 Orchestrator 多模型编排，并升级搜索查询扇出；附 Claude Code 的 /doctor prompt-audit 小技巧。</itunes:summary>
