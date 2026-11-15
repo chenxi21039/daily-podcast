@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月15日晚场：把纠正写成规则，智能体才写得出干净代码</title>
+    <description>AI Engineer 大会 Lauren Tan 演讲要点：把对智能体的纠正写成 lint 规则、保持代码库干净；Claude Code 实验功能 Code Mode 与护栏；Perplexity Teammate 智能体工时一周涨到 11 倍；开源视频智能体 OpenFilm；B2B 官网关键页面与知乎免费 AI 搜索接口。</description>
+    <itunes:summary>AI Engineer 大会 Lauren Tan 演讲要点：把对智能体的纠正写成 lint 规则、保持代码库干净；Claude Code 实验功能 Code Mode 与护栏；Perplexity Teammate 智能体工时一周涨到 11 倍；开源视频智能体 OpenFilm；B2B 官网关键页面与知乎免费 AI 搜索接口。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-15-pm.mp3" length="10190723" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-15-pm</guid>
+    <pubDate>Sun, 15 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:10:37</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>早场：ChatGPT Wallet 让智能体代付、Anthropic 常驻智能体五大原语、Claude Code Projects 更新、Devin Apps、Product Hunt MCP 提交</title>
     <description>十一月十四日周六早场：ChatGPT 推出 ChatGPT Wallet，智能体在用户批准下代为购买且接触不到真实卡号；Anthropic 发布常驻智能体架构指南，拆解事件收件箱、定时器、记忆、权限、发件箱五个原语；Claude Code Projects 协调者更主动，新增 /btw、/fork 与线程提醒；Cognition 推出跑在 Devin 云端机器上的私有内部应用 Devin Apps；Product Hunt CEO 称通过 MCP 提交的发布被推荐概率是手动的三倍。</description>
     <itunes:summary>十一月十四日周六早场：ChatGPT 推出 ChatGPT Wallet，智能体在用户批准下代为购买且接触不到真实卡号；Anthropic 发布常驻智能体架构指南，拆解事件收件箱、定时器、记忆、权限、发件箱五个原语；Claude Code Projects 协调者更主动，新增 /btw、/fork 与线程提醒；Cognition 推出跑在 Devin 云端机器上的私有内部应用 Devin Apps；Product Hunt CEO 称通过 MCP 提交的发布被推荐概率是手动的三倍。</itunes:summary>
