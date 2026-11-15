@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月16日早场：美团开源智能体大模型、Harness 自我改进与新站 SEO 数据</title>
+    <description>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</description>
+    <itunes:summary>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-16-am.mp3" length="8483360" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-16-am</guid>
+    <pubDate>Mon, 16 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:08:50</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月15日早场：给编程智能体选模型，先搭验证再换大模型</title>
     <description>Addy Osmani 的 Claude 选模型指南与编程智能体指数 v2.1；Chrome 团队开源现代前端技能包、达尔文.skill 3.0 发现读文档评分靠不住；多智能体桌面工具扎堆与安全提醒；黄仁勋离开英伟达对开源模型生态的冲击。</description>
     <itunes:summary>Addy Osmani 的 Claude 选模型指南与编程智能体指数 v2.1；Chrome 团队开源现代前端技能包、达尔文.skill 3.0 发现读文档评分靠不住；多智能体桌面工具扎堆与安全提醒；黄仁勋离开英伟达对开源模型生态的冲击。</itunes:summary>

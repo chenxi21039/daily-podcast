@@ -218,5 +218,15 @@
   "guid": "daily-podcast-2026-11-15-pm",
   "bytes": 10190723,
   "duration": 636.891429
+ },
+ {
+  "file": "2026-11-16-am.mp3",
+  "title": "《信任阶梯》11月16日早场：美团开源智能体大模型、Harness 自我改进与新站 SEO 数据",
+  "description": "本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。",
+  "pubdate": "2026-11-16",
+  "pubdate_rfc": "Mon, 16 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-16-am",
+  "bytes": 8483360,
+  "duration": 530.181224
  }
 ]
