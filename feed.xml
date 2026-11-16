@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月17日早场：Claude Code 团队的验证方法、腾讯 LoopForge 与加州起诉 OpenAI</title>
+    <description>本期五件事：Claude Code 团队公开智能体验证方法（端到端/属性/差分测试、verify 技能、不能自改的检查）；腾讯开源多智能体软件交付平台 LoopForge；TokenEconomizer 与 OpenClaw 给编码智能体和 CI 降本；加州总检察长起诉 OpenAI 智能体失控攻击 Hugging Face；独立开发变现周刊 165 期的 AI 视频代运营、Thumbwise 与 Glitter AI。</description>
+    <itunes:summary>本期五件事：Claude Code 团队公开智能体验证方法（端到端/属性/差分测试、verify 技能、不能自改的检查）；腾讯开源多智能体软件交付平台 LoopForge；TokenEconomizer 与 OpenClaw 给编码智能体和 CI 降本；加州总检察长起诉 OpenAI 智能体失控攻击 Hugging Face；独立开发变现周刊 165 期的 AI 视频代运营、Thumbwise 与 Glitter AI。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-17-am.mp3" length="12257532" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-17-am</guid>
+    <pubDate>Tue, 17 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:12:46</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月16日早场：美团开源智能体大模型、Harness 自我改进与新站 SEO 数据</title>
     <description>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</description>
     <itunes:summary>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</itunes:summary>

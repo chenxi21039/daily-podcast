@@ -238,5 +238,15 @@
   "guid": "daily-podcast-2026-11-16-pm",
   "bytes": 10081218,
   "duration": 630.047347
+ },
+ {
+  "file": "2026-11-17-am.mp3",
+  "title": "《信任阶梯》11月17日早场：Claude Code 团队的验证方法、腾讯 LoopForge 与加州起诉 OpenAI",
+  "description": "本期五件事：Claude Code 团队公开智能体验证方法（端到端/属性/差分测试、verify 技能、不能自改的检查）；腾讯开源多智能体软件交付平台 LoopForge；TokenEconomizer 与 OpenClaw 给编码智能体和 CI 降本；加州总检察长起诉 OpenAI 智能体失控攻击 Hugging Face；独立开发变现周刊 165 期的 AI 视频代运营、Thumbwise 与 Glitter AI。",
+  "pubdate": "2026-11-17",
+  "pubdate_rfc": "Tue, 17 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-17-am",
+  "bytes": 12257532,
+  "duration": 766.066939
  }
 ]
