@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月16日晚场：Qwen4-Max 正式发布、指挥智能体的十条提示词与 Shopify 插件出海</title>
+    <description>本期六件事：Qwen4-Max 正式发布与腾讯 Hy4 flash 低价模型；卡兹克指挥智能体最常用的 10 条提示词；HiTw93 用旧设备搭智能体测试机房并自托管 CI；Vercel CEO 的 xeet 与“验证工程”；Browser Use × Evervault 让智能体结账不碰真卡、n8n 谈 MCP 让集成成了服务商的事；出海方向 Shopify 插件市场。</description>
+    <itunes:summary>本期六件事：Qwen4-Max 正式发布与腾讯 Hy4 flash 低价模型；卡兹克指挥智能体最常用的 10 条提示词；HiTw93 用旧设备搭智能体测试机房并自托管 CI；Vercel CEO 的 xeet 与“验证工程”；Browser Use × Evervault 让智能体结账不碰真卡、n8n 谈 MCP 让集成成了服务商的事；出海方向 Shopify 插件市场。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-16-pm.mp3" length="10081218" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-16-pm</guid>
+    <pubDate>Mon, 16 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:10:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月15日早场：给编程智能体选模型，先搭验证再换大模型</title>
     <description>Addy Osmani 的 Claude 选模型指南与编程智能体指数 v2.1；Chrome 团队开源现代前端技能包、达尔文.skill 3.0 发现读文档评分靠不住；多智能体桌面工具扎堆与安全提醒；黄仁勋离开英伟达对开源模型生态的冲击。</description>
     <itunes:summary>Addy Osmani 的 Claude 选模型指南与编程智能体指数 v2.1；Chrome 团队开源现代前端技能包、达尔文.skill 3.0 发现读文档评分靠不住；多智能体桌面工具扎堆与安全提醒；黄仁勋离开英伟达对开源模型生态的冲击。</itunes:summary>

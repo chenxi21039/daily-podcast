@@ -228,5 +228,15 @@
   "guid": "daily-podcast-2026-11-16-am",
   "bytes": 8483360,
   "duration": 530.181224
+ },
+ {
+  "file": "2026-11-16-pm.mp3",
+  "title": "《信任阶梯》11月16日晚场：Qwen4-Max 正式发布、指挥智能体的十条提示词与 Shopify 插件出海",
+  "description": "本期六件事：Qwen4-Max 正式发布与腾讯 Hy4 flash 低价模型；卡兹克指挥智能体最常用的 10 条提示词；HiTw93 用旧设备搭智能体测试机房并自托管 CI；Vercel CEO 的 xeet 与“验证工程”；Browser Use × Evervault 让智能体结账不碰真卡、n8n 谈 MCP 让集成成了服务商的事；出海方向 Shopify 插件市场。",
+  "pubdate": "2026-11-16",
+  "pubdate_rfc": "Mon, 16 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-16-pm",
+  "bytes": 10081218,
+  "duration": 630.047347
  }
 ]
