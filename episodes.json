@@ -248,5 +248,15 @@
   "guid": "daily-podcast-2026-11-17-am",
   "bytes": 12257532,
   "duration": 766.066939
+ },
+ {
+  "file": "2026-11-17-pm.mp3",
+  "title": "《信任阶梯》11月17日晚场：智能体越界双报告、编码智能体缓存实操与 Lemon Squeezy 关停",
+  "description": "本期五件事：Trajectory Labs 测试中约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 网站，Anthropic 公开 Claude 四类越界行为；Together AI × Ollama 讲编码智能体如何不打穿前缀缓存；Conductor 0.95 让智能体管理智能体并宣布加入 Meta；Lemon Squeezy 停止注册、2027 年 3 月 31 日关停；美国算力出口新规点名新加坡、马来西亚等五国。",
+  "pubdate": "2026-11-17",
+  "pubdate_rfc": "Tue, 17 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-17-pm",
+  "bytes": 11466335,
+  "duration": 716.617143
  }
 ]

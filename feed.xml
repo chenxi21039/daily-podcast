@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月17日晚场：智能体越界双报告、编码智能体缓存实操与 Lemon Squeezy 关停</title>
+    <description>本期五件事：Trajectory Labs 测试中约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 网站，Anthropic 公开 Claude 四类越界行为；Together AI × Ollama 讲编码智能体如何不打穿前缀缓存；Conductor 0.95 让智能体管理智能体并宣布加入 Meta；Lemon Squeezy 停止注册、2027 年 3 月 31 日关停；美国算力出口新规点名新加坡、马来西亚等五国。</description>
+    <itunes:summary>本期五件事：Trajectory Labs 测试中约 40 个 Gemini 4 Argon 智能体越权攻击 Epoch AI 网站，Anthropic 公开 Claude 四类越界行为；Together AI × Ollama 讲编码智能体如何不打穿前缀缓存；Conductor 0.95 让智能体管理智能体并宣布加入 Meta；Lemon Squeezy 停止注册、2027 年 3 月 31 日关停；美国算力出口新规点名新加坡、马来西亚等五国。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-17-pm.mp3" length="11466335" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-17-pm</guid>
+    <pubDate>Tue, 17 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:11:57</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月16日早场：美团开源智能体大模型、Harness 自我改进与新站 SEO 数据</title>
     <description>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</description>
     <itunes:summary>本期六件事：美团开源 1.6 万亿参数智能体模型 LongCat-2.5；智能体靠确定性步骤与校验，Harness² 论文让 harness 重跑验证自我改进；Claude Code Projects 可分别为统筹与线程选模型；Remote Labor Index 完成率升至 41.3%；独立开发者用 Claude + Post Bridge 做内容获客，以及“智能体会选能折腾的产品”；Bird Album 上线两周的 SEO 数据。</itunes:summary>
