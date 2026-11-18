@@ -278,5 +278,15 @@
   "guid": "daily-podcast-2026-11-18-pm",
   "bytes": 9761897,
   "duration": 610.089796
+ },
+ {
+  "file": "2026-11-19-am.mp3",
+  "title": "《信任阶梯》11月19日早场：Gemini 4 Neon 上线、Genie 4 世界模型与 Anthropic 定价上市",
+  "description": "本期四件事：Google DeepMind 发布 Gemini 4 Neon，主打又快又强的编码与知识工作智能体，并已上线 Cursor 和 OpenRouter；Project Genie 向 Ultra 用户开放 Genie 4 世界模型，可实时改环境并带上原生音频；Anthropic 官宣 IPO 定价每股 83 美元，11 月 19 日以代码 ANT 登陆纳斯达克；Agarwal 与 Sen 的预注册随机实验显示，谷歌 AI 概览出现时站外自然点击下降约四成。",
+  "pubdate": "2026-11-19",
+  "pubdate_rfc": "Thu, 19 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-19-am",
+  "bytes": 12758247,
+  "duration": 797.361633
  }
 ]
