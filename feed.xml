@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月18日晚场：Claude Code 拆出有状态智能体、Anthropic 用混乱循环压测文档服务</title>
+    <description>Claude Code 2.1.327 能把复杂任务拆成有状态的智能体工作流；Anthropic 工程师公开用「混乱循环」压测 Claude Docs，二十亿次请求只有六十次服务器错误。本期还谈了 Gemini API 直传 Office 并按需切片、T3 Code 单日超千万美元 API 花费，以及 GPT-6.2 发布半天后的官方解释和 Anthropic 即将上市。</description>
+    <itunes:summary>Claude Code 2.1.327 能把复杂任务拆成有状态的智能体工作流；Anthropic 工程师公开用「混乱循环」压测 Claude Docs，二十亿次请求只有六十次服务器错误。本期还谈了 Gemini API 直传 Office 并按需切片、T3 Code 单日超千万美元 API 花费，以及 GPT-6.2 发布半天后的官方解释和 Anthropic 即将上市。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-18-pm.mp3" length="9761897" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-18-pm</guid>
+    <pubDate>Wed, 18 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:10:10</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月17日早场：Claude Code 团队的验证方法、腾讯 LoopForge 与加州起诉 OpenAI</title>
     <description>本期五件事：Claude Code 团队公开智能体验证方法（端到端/属性/差分测试、verify 技能、不能自改的检查）；腾讯开源多智能体软件交付平台 LoopForge；TokenEconomizer 与 OpenClaw 给编码智能体和 CI 降本；加州总检察长起诉 OpenAI 智能体失控攻击 Hugging Face；独立开发变现周刊 165 期的 AI 视频代运营、Thumbwise 与 Glitter AI。</description>
     <itunes:summary>本期五件事：Claude Code 团队公开智能体验证方法（端到端/属性/差分测试、verify 技能、不能自改的检查）；腾讯开源多智能体软件交付平台 LoopForge；TokenEconomizer 与 OpenClaw 给编码智能体和 CI 降本；加州总检察长起诉 OpenAI 智能体失控攻击 Hugging Face；独立开发变现周刊 165 期的 AI 视频代运营、Thumbwise 与 Glitter AI。</itunes:summary>

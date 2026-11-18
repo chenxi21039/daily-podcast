@@ -268,5 +268,15 @@
   "guid": "daily-podcast-2026-11-18-am",
   "bytes": 9826681,
   "duration": 614.138776
+ },
+ {
+  "file": "2026-11-18-pm.mp3",
+  "title": "《信任阶梯》11月18日晚场：Claude Code 拆出有状态智能体、Anthropic 用混乱循环压测文档服务",
+  "description": "Claude Code 2.1.327 能把复杂任务拆成有状态的智能体工作流；Anthropic 工程师公开用「混乱循环」压测 Claude Docs，二十亿次请求只有六十次服务器错误。本期还谈了 Gemini API 直传 Office 并按需切片、T3 Code 单日超千万美元 API 花费，以及 GPT-6.2 发布半天后的官方解释和 Anthropic 即将上市。",
+  "pubdate": "2026-11-18",
+  "pubdate_rfc": "Wed, 18 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-18-pm",
+  "bytes": 9761897,
+  "duration": 610.089796
  }
 ]
