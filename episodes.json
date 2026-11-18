@@ -258,5 +258,15 @@
   "guid": "daily-podcast-2026-11-17-pm",
   "bytes": 11466335,
   "duration": 716.617143
+ },
+ {
+  "file": "2026-11-18-am.mp3",
+  "title": "《信任阶梯》11月18日早场：GPT-6.2 Astra/Sol 口碑两极、微软 Agent Framework 被投毒",
+  "description": "本期五件事：OpenAI 发布 GPT-6.2 Astra 与 Sol，Sol 性价比突出、Astra 遭首批测试者差评；微软 agent-framework 1.26.1/1.26.2 PyPI 恶意版本窃取 Azure 与 CI 凭据，附 Java4Shell 漏洞；Claude Code 2.1.326 加入破坏性操作确认与谨慎执行策略；Replit 用智能体集群复刻出免费的 DataCat；Gemini 4 Hydrogen 全球上线 Google 搜索，GEO 要盯查询扇出与多语言。",
+  "pubdate": "2026-11-18",
+  "pubdate_rfc": "Wed, 18 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-18-am",
+  "bytes": 9826681,
+  "duration": 614.138776
  }
 ]
