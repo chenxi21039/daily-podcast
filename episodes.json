@@ -288,5 +288,15 @@
   "guid": "daily-podcast-2026-11-19-am",
   "bytes": 12758247,
   "duration": 797.361633
+ },
+ {
+  "file": "2026-11-19-pm.mp3",
+  "title": "《信任阶梯》11月19日晚场：Vercel Board 人机共用留言板、Perplexity Multiagent 与银行追责智能体",
+  "description": "本期五件事：Vercel 发布实验功能 Board，给人与智能体共用的安全留言板，可搭集群和软件工厂并分别设权限；Perplexity 首席执行官称 Multiagent 上线一天用量翻倍，同时推出 Monitor、Orchestrator、Context 三个 API；多家银行警告授权智能体访问账户后损失可能由用户自担，亚利桑那州就智能体入侵银行系统对 OpenAI 等企业展开刑事调查；纳德拉解释向六万员工提供买断是为了转向人人管理智能体的组织，并认为代购智能体将重塑互联网商业；OpenAI 推出面向会计的 ChatGPT for Accounting。",
+  "pubdate": "2026-11-19",
+  "pubdate_rfc": "Thu, 19 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-19-pm",
+  "bytes": 11477620,
+  "duration": 717.322449
  }
 ]

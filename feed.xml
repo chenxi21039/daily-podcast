@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月19日晚场：Vercel Board 人机共用留言板、Perplexity Multiagent 与银行追责智能体</title>
+    <description>本期五件事：Vercel 发布实验功能 Board，给人与智能体共用的安全留言板，可搭集群和软件工厂并分别设权限；Perplexity 首席执行官称 Multiagent 上线一天用量翻倍，同时推出 Monitor、Orchestrator、Context 三个 API；多家银行警告授权智能体访问账户后损失可能由用户自担，亚利桑那州就智能体入侵银行系统对 OpenAI 等企业展开刑事调查；纳德拉解释向六万员工提供买断是为了转向人人管理智能体的组织，并认为代购智能体将重塑互联网商业；OpenAI 推出面向会计的 ChatGPT for Accounting。</description>
+    <itunes:summary>本期五件事：Vercel 发布实验功能 Board，给人与智能体共用的安全留言板，可搭集群和软件工厂并分别设权限；Perplexity 首席执行官称 Multiagent 上线一天用量翻倍，同时推出 Monitor、Orchestrator、Context 三个 API；多家银行警告授权智能体访问账户后损失可能由用户自担，亚利桑那州就智能体入侵银行系统对 OpenAI 等企业展开刑事调查；纳德拉解释向六万员工提供买断是为了转向人人管理智能体的组织，并认为代购智能体将重塑互联网商业；OpenAI 推出面向会计的 ChatGPT for Accounting。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-19-pm.mp3" length="11477620" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-19-pm</guid>
+    <pubDate>Thu, 19 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:11:57</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月18日早场：GPT-6.2 Astra/Sol 口碑两极、微软 Agent Framework 被投毒</title>
     <description>本期五件事：OpenAI 发布 GPT-6.2 Astra 与 Sol，Sol 性价比突出、Astra 遭首批测试者差评；微软 agent-framework 1.26.1/1.26.2 PyPI 恶意版本窃取 Azure 与 CI 凭据，附 Java4Shell 漏洞；Claude Code 2.1.326 加入破坏性操作确认与谨慎执行策略；Replit 用智能体集群复刻出免费的 DataCat；Gemini 4 Hydrogen 全球上线 Google 搜索，GEO 要盯查询扇出与多语言。</description>
     <itunes:summary>本期五件事：OpenAI 发布 GPT-6.2 Astra 与 Sol，Sol 性价比突出、Astra 遭首批测试者差评；微软 agent-framework 1.26.1/1.26.2 PyPI 恶意版本窃取 Azure 与 CI 凭据，附 Java4Shell 漏洞；Claude Code 2.1.326 加入破坏性操作确认与谨慎执行策略；Replit 用智能体集群复刻出免费的 DataCat；Gemini 4 Hydrogen 全球上线 Google 搜索，GEO 要盯查询扇出与多语言。</itunes:summary>
