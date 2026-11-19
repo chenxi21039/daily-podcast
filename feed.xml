@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月20日早场：Gemini 操作 Mac、Grok Bot 接入 Obsidian、港大 PhoneGo 与 Anthropic 开盘</title>
+    <description>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</description>
+    <itunes:summary>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-20-am.mp3" length="8176996" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-20-am</guid>
+    <pubDate>Fri, 20 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:08:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月19日早场：Gemini 4 Neon 上线、Genie 4 世界模型与 Anthropic 定价上市</title>
     <description>本期四件事：Google DeepMind 发布 Gemini 4 Neon，主打又快又强的编码与知识工作智能体，并已上线 Cursor 和 OpenRouter；Project Genie 向 Ultra 用户开放 Genie 4 世界模型，可实时改环境并带上原生音频；Anthropic 官宣 IPO 定价每股 83 美元，11 月 19 日以代码 ANT 登陆纳斯达克；Agarwal 与 Sen 的预注册随机实验显示，谷歌 AI 概览出现时站外自然点击下降约四成。</description>
     <itunes:summary>本期四件事：Google DeepMind 发布 Gemini 4 Neon，主打又快又强的编码与知识工作智能体，并已上线 Cursor 和 OpenRouter；Project Genie 向 Ultra 用户开放 Genie 4 世界模型，可实时改环境并带上原生音频；Anthropic 官宣 IPO 定价每股 83 美元，11 月 19 日以代码 ANT 登陆纳斯达克；Agarwal 与 Sen 的预注册随机实验显示，谷歌 AI 概览出现时站外自然点击下降约四成。</itunes:summary>
