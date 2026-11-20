@@ -308,5 +308,15 @@
   "guid": "daily-podcast-2026-11-20-am",
   "bytes": 8176996,
   "duration": 511.033469
+ },
+ {
+  "file": "2026-11-20-pm.mp3",
+  "title": "《信任阶梯》11月20日晚场：混元 Hy4 开源权重、Astra 三维理解登顶与 Harness 自我改进",
+  "description": "本期几件事：腾讯混元正式开放 Hy4 权重并发布 System Card，许可证是在 Apache 2.0 基础上改写的 Tencent Hy License，大规模 MaaS 另需授权；OpenAI 总裁称 GPT-6.2 Astra 在物理三维理解基准上超过人类基线，Andon Labs 称其在 Blueprint-Bench 2 排第一；OpenAI 开发者文档要求在 Responses API 中保持对话前缀不变，以便复用推理、多命中缓存；OpenAI 开始向部分 Plus 用户和全部 Business Standard 用户测试 dots 智能体；谷歌研究人员的论文显示，模块化自我改进 Harness 把 SWE-bench Lite 成功率从 5% 做到 40%；卡兹克总结 DeepSeek Harness 发布百日的 13 个插件玩法；EZindie 第 166 期周刊则讨论了如何让产品被 ChatGPT、Claude 引用，以及 unfair.so 开源的发布获客流程。",
+  "pubdate": "2026-11-20",
+  "pubdate_rfc": "Fri, 20 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-20-pm",
+  "bytes": 9144154,
+  "duration": 571.480816
  }
 ]

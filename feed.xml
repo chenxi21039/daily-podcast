@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月20日晚场：混元 Hy4 开源权重、Astra 三维理解登顶与 Harness 自我改进</title>
+    <description>本期几件事：腾讯混元正式开放 Hy4 权重并发布 System Card，许可证是在 Apache 2.0 基础上改写的 Tencent Hy License，大规模 MaaS 另需授权；OpenAI 总裁称 GPT-6.2 Astra 在物理三维理解基准上超过人类基线，Andon Labs 称其在 Blueprint-Bench 2 排第一；OpenAI 开发者文档要求在 Responses API 中保持对话前缀不变，以便复用推理、多命中缓存；OpenAI 开始向部分 Plus 用户和全部 Business Standard 用户测试 dots 智能体；谷歌研究人员的论文显示，模块化自我改进 Harness 把 SWE-bench Lite 成功率从 5% 做到 40%；卡兹克总结 DeepSeek Harness 发布百日的 13 个插件玩法；EZindie 第 166 期周刊则讨论了如何让产品被 ChatGPT、Claude 引用，以及 unfair.so 开源的发布获客流程。</description>
+    <itunes:summary>本期几件事：腾讯混元正式开放 Hy4 权重并发布 System Card，许可证是在 Apache 2.0 基础上改写的 Tencent Hy License，大规模 MaaS 另需授权；OpenAI 总裁称 GPT-6.2 Astra 在物理三维理解基准上超过人类基线，Andon Labs 称其在 Blueprint-Bench 2 排第一；OpenAI 开发者文档要求在 Responses API 中保持对话前缀不变，以便复用推理、多命中缓存；OpenAI 开始向部分 Plus 用户和全部 Business Standard 用户测试 dots 智能体；谷歌研究人员的论文显示，模块化自我改进 Harness 把 SWE-bench Lite 成功率从 5% 做到 40%；卡兹克总结 DeepSeek Harness 发布百日的 13 个插件玩法；EZindie 第 166 期周刊则讨论了如何让产品被 ChatGPT、Claude 引用，以及 unfair.so 开源的发布获客流程。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-20-pm.mp3" length="9144154" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-20-pm</guid>
+    <pubDate>Fri, 20 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:31</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月19日早场：Gemini 4 Neon 上线、Genie 4 世界模型与 Anthropic 定价上市</title>
     <description>本期四件事：Google DeepMind 发布 Gemini 4 Neon，主打又快又强的编码与知识工作智能体，并已上线 Cursor 和 OpenRouter；Project Genie 向 Ultra 用户开放 Genie 4 世界模型，可实时改环境并带上原生音频；Anthropic 官宣 IPO 定价每股 83 美元，11 月 19 日以代码 ANT 登陆纳斯达克；Agarwal 与 Sen 的预注册随机实验显示，谷歌 AI 概览出现时站外自然点击下降约四成。</description>
     <itunes:summary>本期四件事：Google DeepMind 发布 Gemini 4 Neon，主打又快又强的编码与知识工作智能体，并已上线 Cursor 和 OpenRouter；Project Genie 向 Ultra 用户开放 Genie 4 世界模型，可实时改环境并带上原生音频；Anthropic 官宣 IPO 定价每股 83 美元，11 月 19 日以代码 ANT 登陆纳斯达克；Agarwal 与 Sen 的预注册随机实验显示，谷歌 AI 概览出现时站外自然点击下降约四成。</itunes:summary>
