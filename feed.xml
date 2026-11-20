@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月21日早场：Inkling 2 Mini 本机可跑、Figma 智能体对接 Codex、Perplexity 浏览器电脑操作</title>
+    <description>本期五件事：Thinking Machines 发布开源权重模型 Inkling 2 Mini，循环 Transformer，总参数 26.4B、约 20GB 显存，可在笔记本离线运行，官方称长程智能体和编码基准表现突出，权重已上 Hugging Face 与 Tinker；Figma 用 Specs 和 Figma agent 把画布上的需求、设计与数据收成实现计划，再经 MCP 交给 Codex；Perplexity Computer 可通过官方扩展在 Chromium 浏览器里跨标签页操作；Claude Code 2.1.330 加入风险操作先确认，并支持企业控制台登录；ChatGPT 向 Plus 用户开放协作空间 Space，可共同编辑页面、幻灯片和站点，并支持自动更新。</description>
+    <itunes:summary>本期五件事：Thinking Machines 发布开源权重模型 Inkling 2 Mini，循环 Transformer，总参数 26.4B、约 20GB 显存，可在笔记本离线运行，官方称长程智能体和编码基准表现突出，权重已上 Hugging Face 与 Tinker；Figma 用 Specs 和 Figma agent 把画布上的需求、设计与数据收成实现计划，再经 MCP 交给 Codex；Perplexity Computer 可通过官方扩展在 Chromium 浏览器里跨标签页操作；Claude Code 2.1.330 加入风险操作先确认，并支持企业控制台登录；ChatGPT 向 Plus 用户开放协作空间 Space，可共同编辑页面、幻灯片和站点，并支持自动更新。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-21-am.mp3" length="9039664" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-21-am</guid>
+    <pubDate>Sat, 21 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:09:25</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月20日早场：Gemini 操作 Mac、Grok Bot 接入 Obsidian、港大 PhoneGo 与 Anthropic 开盘</title>
     <description>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</description>
     <itunes:summary>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</itunes:summary>
