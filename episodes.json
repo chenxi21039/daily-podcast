@@ -328,5 +328,15 @@
   "guid": "daily-podcast-2026-11-21-am",
   "bytes": 9039664,
   "duration": 564.950204
+ },
+ {
+  "file": "2026-11-21-pm.mp3",
+  "title": "《信任阶梯》11月21日晚场：黎曼猜想双线证明待验证、Manus 取舍与出海、OpenCode 无密钥认证",
+  "description": "本期五件事：Anthropic 数学家莱文特·阿尔波格宣称与 Claude 合作给出黎曼猜想的 Lean 形式化证明，The Verge 称 Anthropic 未官方表态、仍待独立验证，同日亚历山德罗·马苏洛放出约 940 页人工草稿；沈鹏转述 Manus 联合创始人张涛在北大的分享，谈到砍掉做了七个月的 AI 浏览器、为六个月后的模型做产品，以及出海不只等于欧美；OpenCode Console 支持在持续集成和 OIDC 环境里无密钥调用模型；OpenAI 称 GPT-6.2 Astra 将此前请求思考链提取成功率从 54.0% 降至 0.2%；Baseten 发布基于 Gemma 4 的开源决策模型 bison-1 与 groundhog-1，bison-1 登顶 Artificial Analysis Decision Index v2.1。",
+  "pubdate": "2026-11-21",
+  "pubdate_rfc": "Sat, 21 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-21-pm",
+  "bytes": 9116986,
+  "duration": 569.782857
  }
 ]

@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月21日晚场：黎曼猜想双线证明待验证、Manus 取舍与出海、OpenCode 无密钥认证</title>
+    <description>本期五件事：Anthropic 数学家莱文特·阿尔波格宣称与 Claude 合作给出黎曼猜想的 Lean 形式化证明，The Verge 称 Anthropic 未官方表态、仍待独立验证，同日亚历山德罗·马苏洛放出约 940 页人工草稿；沈鹏转述 Manus 联合创始人张涛在北大的分享，谈到砍掉做了七个月的 AI 浏览器、为六个月后的模型做产品，以及出海不只等于欧美；OpenCode Console 支持在持续集成和 OIDC 环境里无密钥调用模型；OpenAI 称 GPT-6.2 Astra 将此前请求思考链提取成功率从 54.0% 降至 0.2%；Baseten 发布基于 Gemma 4 的开源决策模型 bison-1 与 groundhog-1，bison-1 登顶 Artificial Analysis Decision Index v2.1。</description>
+    <itunes:summary>本期五件事：Anthropic 数学家莱文特·阿尔波格宣称与 Claude 合作给出黎曼猜想的 Lean 形式化证明，The Verge 称 Anthropic 未官方表态、仍待独立验证，同日亚历山德罗·马苏洛放出约 940 页人工草稿；沈鹏转述 Manus 联合创始人张涛在北大的分享，谈到砍掉做了七个月的 AI 浏览器、为六个月后的模型做产品，以及出海不只等于欧美；OpenCode Console 支持在持续集成和 OIDC 环境里无密钥调用模型；OpenAI 称 GPT-6.2 Astra 将此前请求思考链提取成功率从 54.0% 降至 0.2%；Baseten 发布基于 Gemma 4 的开源决策模型 bison-1 与 groundhog-1，bison-1 登顶 Artificial Analysis Decision Index v2.1。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-21-pm.mp3" length="9116986" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-21-pm</guid>
+    <pubDate>Sat, 21 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:30</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月20日早场：Gemini 操作 Mac、Grok Bot 接入 Obsidian、港大 PhoneGo 与 Anthropic 开盘</title>
     <description>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</description>
     <itunes:summary>本期五件事：Google Labs 宣布 Mac 版 Gemini 应用上线电脑操作功能，可在隔离窗口里代为点击和输入，并完成跨应用任务；Gemini API 的 Interactions API 预览推出 Tool Retrieval，按需加载工具参数以降低 token、保持选工具准确；Obsidian 官方宣布 Grok Bot 可连接本地库，创建检索笔记并同步；香港大学团队开源 Android 端智能体 PhoneGo，可用自然语言跨应用操作手机；Anthropic 登陆纳斯达克，开盘价约 111 美元，较发行价高出约三成，CEO Dario Amodei 发表上市声明，强调不会向商业或政治压力低头。</itunes:summary>
