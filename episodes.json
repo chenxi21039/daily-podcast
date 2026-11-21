@@ -338,5 +338,15 @@
   "guid": "daily-podcast-2026-11-21-pm",
   "bytes": 9116986,
   "duration": 569.782857
+ },
+ {
+  "file": "2026-11-22-am.mp3",
+  "title": "《信任阶梯》11月22日早场：黎曼猜想证明获 Lean 官方认证、Signal 限制截图与开源桌面路由",
+  "description": "本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。",
+  "pubdate": "2026-11-22",
+  "pubdate_rfc": "Sun, 22 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-22-am",
+  "bytes": 9157110,
+  "duration": 572.290612
  }
 ]

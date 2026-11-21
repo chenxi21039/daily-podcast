@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月22日早场：黎曼猜想证明获 Lean 官方认证、Signal 限制截图与开源桌面路由</title>
+    <description>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</description>
+    <itunes:summary>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-22-am.mp3" length="9157110" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-22-am</guid>
+    <pubDate>Sun, 22 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:09:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月21日早场：Inkling 2 Mini 本机可跑、Figma 智能体对接 Codex、Perplexity 浏览器电脑操作</title>
     <description>本期五件事：Thinking Machines 发布开源权重模型 Inkling 2 Mini，循环 Transformer，总参数 26.4B、约 20GB 显存，可在笔记本离线运行，官方称长程智能体和编码基准表现突出，权重已上 Hugging Face 与 Tinker；Figma 用 Specs 和 Figma agent 把画布上的需求、设计与数据收成实现计划，再经 MCP 交给 Codex；Perplexity Computer 可通过官方扩展在 Chromium 浏览器里跨标签页操作；Claude Code 2.1.330 加入风险操作先确认，并支持企业控制台登录；ChatGPT 向 Plus 用户开放协作空间 Space，可共同编辑页面、幻灯片和站点，并支持自动更新。</description>
     <itunes:summary>本期五件事：Thinking Machines 发布开源权重模型 Inkling 2 Mini，循环 Transformer，总参数 26.4B、约 20GB 显存，可在笔记本离线运行，官方称长程智能体和编码基准表现突出，权重已上 Hugging Face 与 Tinker；Figma 用 Specs 和 Figma agent 把画布上的需求、设计与数据收成实现计划，再经 MCP 交给 Codex；Perplexity Computer 可通过官方扩展在 Chromium 浏览器里跨标签页操作；Claude Code 2.1.330 加入风险操作先确认，并支持企业控制台登录；ChatGPT 向 Plus 用户开放协作空间 Space，可共同编辑页面、幻灯片和站点，并支持自动更新。</itunes:summary>
