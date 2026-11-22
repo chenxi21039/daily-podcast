@@ -358,5 +358,15 @@
   "guid": "daily-podcast-2026-11-22-pm",
   "bytes": 9572980,
   "duration": 598.282449
+ },
+ {
+  "file": "2026-11-23-am.mp3",
+  "title": "《信任阶梯》11月23日早场：OpenAI 用困惑度设共同上限，怎样验收智能体的“做好了”",
+  "description": "本期五件事：OpenAI 首席科学家帕霍茨基公开内部预训练困惑度，并提议用它设立行业共同上限；宝玉谈怎样验收智能体口中的“做好了”；模型升级后，运行框架哪些该跟随官方、哪些应自己掌握；Replit 介绍与 Windows 合作的桌面安全模型；以及九美分人工智能视频流程和 Cloudflare Workers Traces 即将收费的提醒。",
+  "pubdate": "2026-11-23",
+  "pubdate_rfc": "Mon, 23 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-23-am",
+  "bytes": 12534221,
+  "duration": 783.36
  }
 ]

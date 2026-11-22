@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月23日早场：OpenAI 用困惑度设共同上限，怎样验收智能体的“做好了”</title>
+    <description>本期五件事：OpenAI 首席科学家帕霍茨基公开内部预训练困惑度，并提议用它设立行业共同上限；宝玉谈怎样验收智能体口中的“做好了”；模型升级后，运行框架哪些该跟随官方、哪些应自己掌握；Replit 介绍与 Windows 合作的桌面安全模型；以及九美分人工智能视频流程和 Cloudflare Workers Traces 即将收费的提醒。</description>
+    <itunes:summary>本期五件事：OpenAI 首席科学家帕霍茨基公开内部预训练困惑度，并提议用它设立行业共同上限；宝玉谈怎样验收智能体口中的“做好了”；模型升级后，运行框架哪些该跟随官方、哪些应自己掌握；Replit 介绍与 Windows 合作的桌面安全模型；以及九美分人工智能视频流程和 Cloudflare Workers Traces 即将收费的提醒。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-23-am.mp3" length="12534221" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-23-am</guid>
+    <pubDate>Mon, 23 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:13:03</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月22日早场：黎曼猜想证明获 Lean 官方认证、Signal 限制截图与开源桌面路由</title>
     <description>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</description>
     <itunes:summary>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</itunes:summary>
