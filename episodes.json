@@ -348,5 +348,15 @@
   "guid": "daily-podcast-2026-11-22-am",
   "bytes": 9157110,
   "duration": 572.290612
+ },
+ {
+  "file": "2026-11-22-pm.mp3",
+  "title": "《信任阶梯》11月22日晚场：OpenRouter 下架三家推理商，开源本地智能体 Linger",
+  "description": "本期五件事：OpenRouter 因部分推理供应商的数据处理问题，下架三家供应商、将一百二十五个端点移出零数据保留名单，Together AI 同步通报今年六月至七月的提示词样本泄露；开源本地个人智能体 Linger 可在消费级电脑运行，并接入 Claude Code、Codex 或 Pi；一篇哥伦比亚与麻省理工论文按转述称 Claude 找到了改进三数求和与全对最短路径上限的算法，并用 Lean 四验证；Codex 负责人征集桌面应用反馈并预告下一轮更新；以及一份人工智能产品出海实战者名单。",
+  "pubdate": "2026-11-22",
+  "pubdate_rfc": "Sun, 22 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-22-pm",
+  "bytes": 9572980,
+  "duration": 598.282449
  }
 ]
