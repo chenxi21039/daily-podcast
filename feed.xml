@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月23日晚场：智谱 GLM-5.4 循环架构做泛编程，卡兹克怎么调度三模型</title>
+    <description>本期六件事：智谱发布旗舰模型 GLM-5.4，用循环 Transformer 在参数量不变时加深推理，并把编程扩展到视频、游戏和三维设计；卡兹克分享用 Claude 指挥、Gemini 当军师、GPT 做执行和审查的三模型调度法；Architect Labs 的智能体把交互网络处理器 Frostbite 设计到七纳米版图；蚂蚁开源医疗多模态模型 LingSante-3.1；Perplexity 给出 Gemini 4 Neon 在智能体任务上的用量增速；以及谷歌人工智能搜索变现放缓对苹果分成的影响。</description>
+    <itunes:summary>本期六件事：智谱发布旗舰模型 GLM-5.4，用循环 Transformer 在参数量不变时加深推理，并把编程扩展到视频、游戏和三维设计；卡兹克分享用 Claude 指挥、Gemini 当军师、GPT 做执行和审查的三模型调度法；Architect Labs 的智能体把交互网络处理器 Frostbite 设计到七纳米版图；蚂蚁开源医疗多模态模型 LingSante-3.1；Perplexity 给出 Gemini 4 Neon 在智能体任务上的用量增速；以及谷歌人工智能搜索变现放缓对苹果分成的影响。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-23-pm.mp3" length="12570165" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-23-pm</guid>
+    <pubDate>Mon, 23 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:13:06</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月22日早场：黎曼猜想证明获 Lean 官方认证、Signal 限制截图与开源桌面路由</title>
     <description>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</description>
     <itunes:summary>本期五件事：Lean 与 Mathlib 社区联合声明，正式认证阿尔波格与 Claude 合作的黎曼猜想形式化证明；Signal 因系统级智能体扫描屏幕，在安卓和 iOS 上默认限制截图；LangChain 提出用知识工厂为智能体补上公司默会知识；逸尘开源 agent-desktop-router，用三层路径为 Codex、Claude Code 和 Antigravity 分配桌面自动化；Qwen4 Max 上线 Together AI，一次整仓调用修好 Tornado 缺陷，促销至今日。</itunes:summary>
