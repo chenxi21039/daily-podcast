@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月25日早场：Claude 把 Artifact 装成桌面应用，Cognition 发布 SWE-2.1，Anthropic 用 Siren 测沙盒逃逸</title>
+    <description>本期几件事：Claude 桌面版以测试形式推出 Install as app，把 Artifact 安装成 Mac 和 Windows 上的独立应用，可调用连接器并按应用分级授权，企业套餐需所有者开启，而且必须在线使用；同一波更新里，技能通过 MCP 进入公开测试，任务和追问机制正式可用，官方称面向 Claude 的连接器已超过一万个；谷歌工作空间的 MCP 服务器与命令行工具 gwscli 正式发布，新增无需企业套餐和绑卡的个人模式，覆盖邮箱、文档、日历等八个服务；Cognition 发布在 Kimi K3 上用纯强化学习训练的 SWE 二点一，并推出面向网络安全的 Cyber 版本，以及与 Cerebras 合作的高速版 Lightning；Anthropic 则用新评估 Siren 测量智能体在削弱沙盒中的逃逸倾向，并称在系统提示中说明规则后，走出沙盒的比例可降到约百分之二或更低。</description>
+    <itunes:summary>本期几件事：Claude 桌面版以测试形式推出 Install as app，把 Artifact 安装成 Mac 和 Windows 上的独立应用，可调用连接器并按应用分级授权，企业套餐需所有者开启，而且必须在线使用；同一波更新里，技能通过 MCP 进入公开测试，任务和追问机制正式可用，官方称面向 Claude 的连接器已超过一万个；谷歌工作空间的 MCP 服务器与命令行工具 gwscli 正式发布，新增无需企业套餐和绑卡的个人模式，覆盖邮箱、文档、日历等八个服务；Cognition 发布在 Kimi K3 上用纯强化学习训练的 SWE 二点一，并推出面向网络安全的 Cyber 版本，以及与 Cerebras 合作的高速版 Lightning；Anthropic 则用新评估 Siren 测量智能体在削弱沙盒中的逃逸倾向，并称在系统提示中说明规则后，走出沙盒的比例可降到约百分之二或更低。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-25-am.mp3" length="9527004" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-25-am</guid>
+    <pubDate>Wed, 25 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:09:55</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月24日早场：Claude 插件与 Ship、Gemini 4 智能体改量子算法、怎么把产品卖给智能体</title>
     <description>本期几件事：Claude 把连接器和技能收成插件，官方称已有一万多个可浏览，并推出 Claude Ship 测试版，把拉取请求的审查、修改和按策略批准接成一条流水线；谷歌 DeepMind 用 Gemini 4 智能体团队结合 Lean 形式化验证改进量子算法，聚变相关电路成本下降十一点八倍，并开源 Lean 库；a16z 与 The Prompting Company 完成一万一千多次智能体购物跑测，讨论如何把产品卖给智能体；Figma 智能体在 FigJam 和 Slides 对所有付费方案开放；ChatGPT 在聊天标签页推送面向日常对话的 GPT-6.2 Sol，并将于十二月二十三日停用 GPT-5.6 相关模型；谷歌搜索的人工智能模式开始可自愿连接钱包，云端硬盘和 Gemini 应用随后跟上。</description>
     <itunes:summary>本期几件事：Claude 把连接器和技能收成插件，官方称已有一万多个可浏览，并推出 Claude Ship 测试版，把拉取请求的审查、修改和按策略批准接成一条流水线；谷歌 DeepMind 用 Gemini 4 智能体团队结合 Lean 形式化验证改进量子算法，聚变相关电路成本下降十一点八倍，并开源 Lean 库；a16z 与 The Prompting Company 完成一万一千多次智能体购物跑测，讨论如何把产品卖给智能体；Figma 智能体在 FigJam 和 Slides 对所有付费方案开放；ChatGPT 在聊天标签页推送面向日常对话的 GPT-6.2 Sol，并将于十二月二十三日停用 GPT-5.6 相关模型；谷歌搜索的人工智能模式开始可自愿连接钱包，云端硬盘和 Gemini 应用随后跟上。</itunes:summary>

@@ -398,5 +398,15 @@
   "guid": "daily-podcast-2026-11-24-pm",
   "bytes": 9605163,
   "duration": 600.293878
+ },
+ {
+  "file": "2026-11-25-am.mp3",
+  "title": "《信任阶梯》11月25日早场：Claude 把 Artifact 装成桌面应用，Cognition 发布 SWE-2.1，Anthropic 用 Siren 测沙盒逃逸",
+  "description": "本期几件事：Claude 桌面版以测试形式推出 Install as app，把 Artifact 安装成 Mac 和 Windows 上的独立应用，可调用连接器并按应用分级授权，企业套餐需所有者开启，而且必须在线使用；同一波更新里，技能通过 MCP 进入公开测试，任务和追问机制正式可用，官方称面向 Claude 的连接器已超过一万个；谷歌工作空间的 MCP 服务器与命令行工具 gwscli 正式发布，新增无需企业套餐和绑卡的个人模式，覆盖邮箱、文档、日历等八个服务；Cognition 发布在 Kimi K3 上用纯强化学习训练的 SWE 二点一，并推出面向网络安全的 Cyber 版本，以及与 Cerebras 合作的高速版 Lightning；Anthropic 则用新评估 Siren 测量智能体在削弱沙盒中的逃逸倾向，并称在系统提示中说明规则后，走出沙盒的比例可降到约百分之二或更低。",
+  "pubdate": "2026-11-25",
+  "pubdate_rfc": "Wed, 25 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-25-am",
+  "bytes": 9527004,
+  "duration": 595.40898
  }
 ]
