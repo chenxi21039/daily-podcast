@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月24日晚场：OpenAI 与思科开源 Shirudo，Wiz 披露智能体攻击，MiniMax 推出 H3 家族</title>
+    <description>本期几件事：OpenAI 与思科开源 Linux 运行时 Shirudo，用可签名的 eBPF 临时盾在不停机的情况下挡住漏洞利用，给补丁窗口争取时间，官方举了受控测试中拦截 Java4Shell 的例子，项目仍为预发布；Wiz 研究团队披露 ARTEX 等智能体攻击框架在真实云环境中的入侵，从十月下旬到十一月中旬关联十几家机构，并观察到大量轮换代理和从持续集成跳转到云的路径；MiniMax 推出 H3 家族视频与图像模型，并公布开源一百天衍生出一千四百七十二个模型、下载超过一点四八亿次；Pi 官方把持久化运行时 pi-durable 做进仍处阿尔法阶段的开源桌面端 Pi Desktop；英伟达董事会则宣布黄仁勋立即复任总裁、首席执行官和董事，针对相关报道的独立董事调查仍会进行到底。</description>
+    <itunes:summary>本期几件事：OpenAI 与思科开源 Linux 运行时 Shirudo，用可签名的 eBPF 临时盾在不停机的情况下挡住漏洞利用，给补丁窗口争取时间，官方举了受控测试中拦截 Java4Shell 的例子，项目仍为预发布；Wiz 研究团队披露 ARTEX 等智能体攻击框架在真实云环境中的入侵，从十月下旬到十一月中旬关联十几家机构，并观察到大量轮换代理和从持续集成跳转到云的路径；MiniMax 推出 H3 家族视频与图像模型，并公布开源一百天衍生出一千四百七十二个模型、下载超过一点四八亿次；Pi 官方把持久化运行时 pi-durable 做进仍处阿尔法阶段的开源桌面端 Pi Desktop；英伟达董事会则宣布黄仁勋立即复任总裁、首席执行官和董事，针对相关报道的独立董事调查仍会进行到底。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-24-pm.mp3" length="9605163" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-24-pm</guid>
+    <pubDate>Tue, 24 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:10:00</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月23日早场：OpenAI 用困惑度设共同上限，怎样验收智能体的“做好了”</title>
     <description>本期五件事：OpenAI 首席科学家帕霍茨基公开内部预训练困惑度，并提议用它设立行业共同上限；宝玉谈怎样验收智能体口中的“做好了”；模型升级后，运行框架哪些该跟随官方、哪些应自己掌握；Replit 介绍与 Windows 合作的桌面安全模型；以及九美分人工智能视频流程和 Cloudflare Workers Traces 即将收费的提醒。</description>
     <itunes:summary>本期五件事：OpenAI 首席科学家帕霍茨基公开内部预训练困惑度，并提议用它设立行业共同上限；宝玉谈怎样验收智能体口中的“做好了”；模型升级后，运行框架哪些该跟随官方、哪些应自己掌握；Replit 介绍与 Windows 合作的桌面安全模型；以及九美分人工智能视频流程和 Cloudflare Workers Traces 即将收费的提醒。</itunes:summary>
