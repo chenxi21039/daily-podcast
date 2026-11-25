@@ -418,5 +418,15 @@
   "guid": "daily-podcast-2026-11-25-pm",
   "bytes": 9277065,
   "duration": 579.787755
+ },
+ {
+  "file": "2026-11-26-am.mp3",
+  "title": "《信任阶梯》11月26日早场：Perplexity 推出时间机器、Anthropic 用智能体校验 Rust 迁移、上下文漂移实验",
+  "description": "Perplexity 的 Time Machine 让模型看到指定日期的网络快照，用于后训练会预测的智能体，并已接入搜索和上下文接口；Anthropic 把 Messages 接口从 Python 迁到 Rust，用生产流量和智能体团队做校验，每请求中央处理器用量大约降低七成。本期还谈了四百七十项实验里智能体如何悄悄处理互相打架的文档、Obsidian 把官方连接器铺到各类智能体，以及 DeepMind 的质谱技能把轻量模型的分子识别准确率做到约百分之九十七。",
+  "pubdate": "2026-11-26",
+  "pubdate_rfc": "Thu, 26 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-26-am",
+  "bytes": 9888957,
+  "duration": 618.03102
  }
 ]
