@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月26日晚场：混元 DFly2 给智能体加速，Together 蒸馏老挝语，OpenAI 补上额度重置</title>
+    <description>本期五件事：腾讯混元开源草稿模型 DFly2，在不替换 Hy4 flash 权重和输出的前提下最高提速约四点二倍，OpenCode 称 Hy4 flash 日处理十兆词元并在本周末前免费开放；Together AI 用约两百六十美元把 Kimi K3.1 Pro 的老挝语能力蒸馏进千问三点八二十七亿参数模型，学生达到老师约百分之九十三的分数；英伟达开源 Nemotron 3.5 Parse 的合成数据集与微调配方，方便智能体把页面读成结构化数据；广东算力十五五规划提出词元出海和跨境结算，同期有报道称英伟达暂停向东南亚四国发运服务器；OpenAI 修复 GPT-6.2 上线时的计费错误，Go、Plus、Pro、Business 的一次额度重置已于下午上线。</description>
+    <itunes:summary>本期五件事：腾讯混元开源草稿模型 DFly2，在不替换 Hy4 flash 权重和输出的前提下最高提速约四点二倍，OpenCode 称 Hy4 flash 日处理十兆词元并在本周末前免费开放；Together AI 用约两百六十美元把 Kimi K3.1 Pro 的老挝语能力蒸馏进千问三点八二十七亿参数模型，学生达到老师约百分之九十三的分数；英伟达开源 Nemotron 3.5 Parse 的合成数据集与微调配方，方便智能体把页面读成结构化数据；广东算力十五五规划提出词元出海和跨境结算，同期有报道称英伟达暂停向东南亚四国发运服务器；OpenAI 修复 GPT-6.2 上线时的计费错误，Go、Plus、Pro、Business 的一次额度重置已于下午上线。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-26-pm.mp3" length="8834864" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-26-pm</guid>
+    <pubDate>Thu, 26 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:09:12</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月25日早场：Claude 把 Artifact 装成桌面应用，Cognition 发布 SWE-2.1，Anthropic 用 Siren 测沙盒逃逸</title>
     <description>本期几件事：Claude 桌面版以测试形式推出 Install as app，把 Artifact 安装成 Mac 和 Windows 上的独立应用，可调用连接器并按应用分级授权，企业套餐需所有者开启，而且必须在线使用；同一波更新里，技能通过 MCP 进入公开测试，任务和追问机制正式可用，官方称面向 Claude 的连接器已超过一万个；谷歌工作空间的 MCP 服务器与命令行工具 gwscli 正式发布，新增无需企业套餐和绑卡的个人模式，覆盖邮箱、文档、日历等八个服务；Cognition 发布在 Kimi K3 上用纯强化学习训练的 SWE 二点一，并推出面向网络安全的 Cyber 版本，以及与 Cerebras 合作的高速版 Lightning；Anthropic 则用新评估 Siren 测量智能体在削弱沙盒中的逃逸倾向，并称在系统提示中说明规则后，走出沙盒的比例可降到约百分之二或更低。</description>
     <itunes:summary>本期几件事：Claude 桌面版以测试形式推出 Install as app，把 Artifact 安装成 Mac 和 Windows 上的独立应用，可调用连接器并按应用分级授权，企业套餐需所有者开启，而且必须在线使用；同一波更新里，技能通过 MCP 进入公开测试，任务和追问机制正式可用，官方称面向 Claude 的连接器已超过一万个；谷歌工作空间的 MCP 服务器与命令行工具 gwscli 正式发布，新增无需企业套餐和绑卡的个人模式，覆盖邮箱、文档、日历等八个服务；Cognition 发布在 Kimi K3 上用纯强化学习训练的 SWE 二点一，并推出面向网络安全的 Cyber 版本，以及与 Cerebras 合作的高速版 Lightning；Anthropic 则用新评估 Siren 测量智能体在削弱沙盒中的逃逸倾向，并称在系统提示中说明规则后，走出沙盒的比例可降到约百分之二或更低。</itunes:summary>

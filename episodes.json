@@ -428,5 +428,15 @@
   "guid": "daily-podcast-2026-11-26-am",
   "bytes": 9888957,
   "duration": 618.03102
+ },
+ {
+  "file": "2026-11-26-pm.mp3",
+  "title": "《信任阶梯》11月26日晚场：混元 DFly2 给智能体加速，Together 蒸馏老挝语，OpenAI 补上额度重置",
+  "description": "本期五件事：腾讯混元开源草稿模型 DFly2，在不替换 Hy4 flash 权重和输出的前提下最高提速约四点二倍，OpenCode 称 Hy4 flash 日处理十兆词元并在本周末前免费开放；Together AI 用约两百六十美元把 Kimi K3.1 Pro 的老挝语能力蒸馏进千问三点八二十七亿参数模型，学生达到老师约百分之九十三的分数；英伟达开源 Nemotron 3.5 Parse 的合成数据集与微调配方，方便智能体把页面读成结构化数据；广东算力十五五规划提出词元出海和跨境结算，同期有报道称英伟达暂停向东南亚四国发运服务器；OpenAI 修复 GPT-6.2 上线时的计费错误，Go、Plus、Pro、Business 的一次额度重置已于下午上线。",
+  "pubdate": "2026-11-26",
+  "pubdate_rfc": "Thu, 26 Nov 2026 20:00:00 +0800",
+  "guid": "daily-podcast-2026-11-26-pm",
+  "bytes": 8834864,
+  "duration": 552.150204
  }
 ]
