@@ -15,6 +15,16 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:block>yes</itunes:block>
   <item>
+    <title>《信任阶梯》11月27日早场：Skills 之后为何还看好多 MCP，Clay 把获客智能体改成编码智能体，OpenRouter 称杰文斯悖论减弱</title>
+    <description>本期六件事：谷歌 DeepMind 的 Philipp Schmid 发长文，用 Linear、Notion、Atlassian 的用量说明 Skills 和命令行兴起后他为何仍更看好 MCP；华盛顿大学与微软的 DualPM 论文把失败教训和成功经验分开记，分别拓宽工具搜索、缩短执行轮次；Latent Space 采访 Clay 人工智能负责人杰夫·巴格，讲他们如何把获客智能体重做成编码智能体，并让外部 Claude Code、Codex 的用量接近对半开；OpenRouter 全年数据显示杰文斯悖论仍在但弹性已从五点五降到约一点二，同期 Claude 提醒付费用户领取十一月十日的额度重置和每月接口额度；独立开发变现周刊第一百六十七期里，开源智能体产品 Rakazo 自称一个月做到五千美元月经常性收入，闹钟应用 Alarmy 去年收入三千四百万美元；美国联邦通信委员会批准 SpaceX 到二〇四〇年最多部署一百万颗 Starmind 在轨计算卫星。</description>
+    <itunes:summary>本期六件事：谷歌 DeepMind 的 Philipp Schmid 发长文，用 Linear、Notion、Atlassian 的用量说明 Skills 和命令行兴起后他为何仍更看好 MCP；华盛顿大学与微软的 DualPM 论文把失败教训和成功经验分开记，分别拓宽工具搜索、缩短执行轮次；Latent Space 采访 Clay 人工智能负责人杰夫·巴格，讲他们如何把获客智能体重做成编码智能体，并让外部 Claude Code、Codex 的用量接近对半开；OpenRouter 全年数据显示杰文斯悖论仍在但弹性已从五点五降到约一点二，同期 Claude 提醒付费用户领取十一月十日的额度重置和每月接口额度；独立开发变现周刊第一百六十七期里，开源智能体产品 Rakazo 自称一个月做到五千美元月经常性收入，闹钟应用 Alarmy 去年收入三千四百万美元；美国联邦通信委员会批准 SpaceX 到二〇四〇年最多部署一百万颗 Starmind 在轨计算卫星。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-27-am.mp3" length="9922394" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-27-am</guid>
+    <pubDate>Fri, 27 Nov 2026 08:00:00 +0800</pubDate>
+    <itunes:duration>00:10:20</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月26日早场：Perplexity 推出时间机器、Anthropic 用智能体校验 Rust 迁移、上下文漂移实验</title>
     <description>Perplexity 的 Time Machine 让模型看到指定日期的网络快照，用于后训练会预测的智能体，并已接入搜索和上下文接口；Anthropic 把 Messages 接口从 Python 迁到 Rust，用生产流量和智能体团队做校验，每请求中央处理器用量大约降低七成。本期还谈了四百七十项实验里智能体如何悄悄处理互相打架的文档、Obsidian 把官方连接器铺到各类智能体，以及 DeepMind 的质谱技能把轻量模型的分子识别准确率做到约百分之九十七。</description>
     <itunes:summary>Perplexity 的 Time Machine 让模型看到指定日期的网络快照，用于后训练会预测的智能体，并已接入搜索和上下文接口；Anthropic 把 Messages 接口从 Python 迁到 Rust，用生产流量和智能体团队做校验，每请求中央处理器用量大约降低七成。本期还谈了四百七十项实验里智能体如何悄悄处理互相打架的文档、Obsidian 把官方连接器铺到各类智能体，以及 DeepMind 的质谱技能把轻量模型的分子识别准确率做到约百分之九十七。</itunes:summary>

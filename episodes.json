@@ -438,5 +438,15 @@
   "guid": "daily-podcast-2026-11-26-pm",
   "bytes": 8834864,
   "duration": 552.150204
+ },
+ {
+  "file": "2026-11-27-am.mp3",
+  "title": "《信任阶梯》11月27日早场：Skills 之后为何还看好多 MCP，Clay 把获客智能体改成编码智能体，OpenRouter 称杰文斯悖论减弱",
+  "description": "本期六件事：谷歌 DeepMind 的 Philipp Schmid 发长文，用 Linear、Notion、Atlassian 的用量说明 Skills 和命令行兴起后他为何仍更看好 MCP；华盛顿大学与微软的 DualPM 论文把失败教训和成功经验分开记，分别拓宽工具搜索、缩短执行轮次；Latent Space 采访 Clay 人工智能负责人杰夫·巴格，讲他们如何把获客智能体重做成编码智能体，并让外部 Claude Code、Codex 的用量接近对半开；OpenRouter 全年数据显示杰文斯悖论仍在但弹性已从五点五降到约一点二，同期 Claude 提醒付费用户领取十一月十日的额度重置和每月接口额度；独立开发变现周刊第一百六十七期里，开源智能体产品 Rakazo 自称一个月做到五千美元月经常性收入，闹钟应用 Alarmy 去年收入三千四百万美元；美国联邦通信委员会批准 SpaceX 到二〇四〇年最多部署一百万颗 Starmind 在轨计算卫星。",
+  "pubdate": "2026-11-27",
+  "pubdate_rfc": "Fri, 27 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-27-am",
+  "bytes": 9922394,
+  "duration": 620.120816
  }
 ]
