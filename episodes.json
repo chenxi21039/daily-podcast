@@ -458,5 +458,15 @@
   "guid": "daily-podcast-2026-11-27-pm",
   "bytes": 8194132,
   "duration": 512.10449
+ },
+ {
+  "file": "2026-11-28-am.mp3",
+  "title": "《信任阶梯》11月28日早场：DHH 说智能体让 Linux 翻身，OS-Omni 揭示智能体手机端不及格",
+  "description": "本期主菜两道：Rails 之父 DHH 在 a16z 播客里说，命令行、配置文件和详细报错让 Linux 成为智能体时代的原生系统，代码不再是护城河，价值集中在最后百分之二；NeurIPS 新评测 OS-Omni 覆盖六大平台，前沿模型在 Linux 上超过人类，在 iOS 上最好只有百分之四十一点七。小菜：卡兹克用一句 GEMINI.md 让 Antigravity 边干边汇报，Logan 谈短信式智能体体验，谷歌限制第三方智能体访问 Gmail 的传闻，GPT-6.2 Astra 证明数学猜想背后的 Lean 验证加跨模型盲审，以及独立开发者谈敢于卖自己。",
+  "pubdate": "2026-11-28",
+  "pubdate_rfc": "Sat, 28 Nov 2026 08:00:00 +0800",
+  "guid": "daily-podcast-2026-11-28-am",
+  "bytes": 10396777,
+  "duration": 649.769796
  }
 ]
