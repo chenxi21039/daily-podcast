@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月27日晚场：把 Skill 挂上支付宝卖钱，三篇智能体工程论文，SAP 疑遭智能体辅助攻击</title>
+    <description>本期五件事：卡兹克实测支付宝 SkillPay，讲清买断与云端沙盒订阅两种卖 Skill 的方式、定价上限五十元和百分之一的收款费用；英伟达 TimeTravelContainer 让智能体一秒分叉运行中的容器，把二十三点七小时的芯片修复任务压到二点五小时；英伟达 NOOA 让模型自己管理上下文，GPT-6.1 Sol 在三万两千词元预算下从百分之二十一升到百分之五十六；微软论文发现编码智能体补丁大二点三三倍主要是多写了测试，必要代码比例与人类持平；SAP 向《明镜》确认遭攻击，内部人士称攻击者用偷来的令牌改动并复制 GitHub 源码、可能用到智能体；另有月之暗面为全球科研送 Kimi 接口额度，以及玉伯谈用 AI 赚到钱的人靠的是行动差。</description>
+    <itunes:summary>本期五件事：卡兹克实测支付宝 SkillPay，讲清买断与云端沙盒订阅两种卖 Skill 的方式、定价上限五十元和百分之一的收款费用；英伟达 TimeTravelContainer 让智能体一秒分叉运行中的容器，把二十三点七小时的芯片修复任务压到二点五小时；英伟达 NOOA 让模型自己管理上下文，GPT-6.1 Sol 在三万两千词元预算下从百分之二十一升到百分之五十六；微软论文发现编码智能体补丁大二点三三倍主要是多写了测试，必要代码比例与人类持平；SAP 向《明镜》确认遭攻击，内部人士称攻击者用偷来的令牌改动并复制 GitHub 源码、可能用到智能体；另有月之暗面为全球科研送 Kimi 接口额度，以及玉伯谈用 AI 赚到钱的人靠的是行动差。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-27-pm.mp3" length="8194132" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-27-pm</guid>
+    <pubDate>Fri, 27 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:08:32</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月26日早场：Perplexity 推出时间机器、Anthropic 用智能体校验 Rust 迁移、上下文漂移实验</title>
     <description>Perplexity 的 Time Machine 让模型看到指定日期的网络快照，用于后训练会预测的智能体，并已接入搜索和上下文接口；Anthropic 把 Messages 接口从 Python 迁到 Rust，用生产流量和智能体团队做校验，每请求中央处理器用量大约降低七成。本期还谈了四百七十项实验里智能体如何悄悄处理互相打架的文档、Obsidian 把官方连接器铺到各类智能体，以及 DeepMind 的质谱技能把轻量模型的分子识别准确率做到约百分之九十七。</description>
     <itunes:summary>Perplexity 的 Time Machine 让模型看到指定日期的网络快照，用于后训练会预测的智能体，并已接入搜索和上下文接口；Anthropic 把 Messages 接口从 Python 迁到 Rust，用生产流量和智能体团队做校验，每请求中央处理器用量大约降低七成。本期还谈了四百七十项实验里智能体如何悄悄处理互相打架的文档、Obsidian 把官方连接器铺到各类智能体，以及 DeepMind 的质谱技能把轻量模型的分子识别准确率做到约百分之九十七。</itunes:summary>
