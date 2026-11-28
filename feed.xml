@@ -25,6 +25,16 @@
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
+    <title>《信任阶梯》11月28日晚场：Antigravity 自定义智能体四倍扣费，MA-Mesh 让智能体团队自愈</title>
+    <description>本期主菜两道：谷歌 Antigravity 对自定义智能体和子智能体按四倍扣额度，官方关闭 issue 称是故意的，省钱办法是回到默认智能体、把规范写进 AGENTS.md、GEMINI.md 和 Skill；EMNLP 2026 论文 MA-Mesh 把服务网格思路搬进多智能体系统，用 Sidecar 代理互审加元智能体换人实现运行时自愈。小菜：Hugging Face 上藏木马的 GGUF 模型、独立开发者的 Cloudflare 七步建站教程、感恩节 AI 给美国零售网站带去的流量翻倍。</description>
+    <itunes:summary>本期主菜两道：谷歌 Antigravity 对自定义智能体和子智能体按四倍扣额度，官方关闭 issue 称是故意的，省钱办法是回到默认智能体、把规范写进 AGENTS.md、GEMINI.md 和 Skill；EMNLP 2026 论文 MA-Mesh 把服务网格思路搬进多智能体系统，用 Sidecar 代理互审加元智能体换人实现运行时自愈。小菜：Hugging Face 上藏木马的 GGUF 模型、独立开发者的 Cloudflare 七步建站教程、感恩节 AI 给美国零售网站带去的流量翻倍。</itunes:summary>
+    <enclosure url="https://chenxi21039.github.io/daily-podcast/episodes/2026-11-28-pm.mp3" length="10135135" type="audio/mpeg"/>
+    <guid isPermaLink="false">daily-podcast-2026-11-28-pm</guid>
+    <pubDate>Sat, 28 Nov 2026 20:00:00 +0800</pubDate>
+    <itunes:duration>00:10:33</itunes:duration>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
     <title>《信任阶梯》11月27日早场：Skills 之后为何还看好多 MCP，Clay 把获客智能体改成编码智能体，OpenRouter 称杰文斯悖论减弱</title>
     <description>本期六件事：谷歌 DeepMind 的 Philipp Schmid 发长文，用 Linear、Notion、Atlassian 的用量说明 Skills 和命令行兴起后他为何仍更看好 MCP；华盛顿大学与微软的 DualPM 论文把失败教训和成功经验分开记，分别拓宽工具搜索、缩短执行轮次；Latent Space 采访 Clay 人工智能负责人杰夫·巴格，讲他们如何把获客智能体重做成编码智能体，并让外部 Claude Code、Codex 的用量接近对半开；OpenRouter 全年数据显示杰文斯悖论仍在但弹性已从五点五降到约一点二，同期 Claude 提醒付费用户领取十一月十日的额度重置和每月接口额度；独立开发变现周刊第一百六十七期里，开源智能体产品 Rakazo 自称一个月做到五千美元月经常性收入，闹钟应用 Alarmy 去年收入三千四百万美元；美国联邦通信委员会批准 SpaceX 到二〇四〇年最多部署一百万颗 Starmind 在轨计算卫星。</description>
     <itunes:summary>本期六件事：谷歌 DeepMind 的 Philipp Schmid 发长文，用 Linear、Notion、Atlassian 的用量说明 Skills 和命令行兴起后他为何仍更看好 MCP；华盛顿大学与微软的 DualPM 论文把失败教训和成功经验分开记，分别拓宽工具搜索、缩短执行轮次；Latent Space 采访 Clay 人工智能负责人杰夫·巴格，讲他们如何把获客智能体重做成编码智能体，并让外部 Claude Code、Codex 的用量接近对半开；OpenRouter 全年数据显示杰文斯悖论仍在但弹性已从五点五降到约一点二，同期 Claude 提醒付费用户领取十一月十日的额度重置和每月接口额度；独立开发变现周刊第一百六十七期里，开源智能体产品 Rakazo 自称一个月做到五千美元月经常性收入，闹钟应用 Alarmy 去年收入三千四百万美元；美国联邦通信委员会批准 SpaceX 到二〇四〇年最多部署一百万颗 Starmind 在轨计算卫星。</itunes:summary>
